@@ -1,0 +1,9 @@
+Bonjour,
+
+Nous vous faisons ce fichier texte afin de vous donner des informations complémentaires.
+Nous sommes l'équipe numéro 2, composée de Julie Fardeau, Lucas Garcia--Rota, Axel Gatineau Philippe, Antonin Gaboriau et Nicolas Gimenez.
+En effet, seul Lucas a envoyé nos documents sur Git, mais l'ensemble de l'équipe à travaillé dessus et nous avons tout réuni à la fin pour pouvoir tout envoyer en même temps.
+
+Cordialement
+
+L'équipe n°2

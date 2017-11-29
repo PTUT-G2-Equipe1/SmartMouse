@@ -1,2 +1,5 @@
-# Projet tutoré "SmartMouse"
-### Suivi basecamp du semetre 3 [ici](https://basecamp.com/2577854/projects/14565488)
+# M2107_Projet
+
+Pour cloner le projet : 
+
+git clone https://github.com/IUTInfoAix/M2107_Projet.git
