@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.example.f15003938.test.Main2Activity">
+
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="retour"
+        android:id="@+id/retour"
+        tools:layout_editor_absoluteY="16dp"
+        tools:layout_editor_absoluteX="26dp" />
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Gauche"
+        android:id="@+id/gauche"
+        android:layout_gravity="bottom"
+        tools:layout_editor_absoluteY="428dp"
+        tools:layout_editor_absoluteX="62dp" />
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Droit"
+        android:id="@+id/droit"
+        android:layout_gravity="bottom"
+        tools:layout_editor_absoluteY="428dp"
+        tools:layout_editor_absoluteX="236dp" />
+</LinearLayout>

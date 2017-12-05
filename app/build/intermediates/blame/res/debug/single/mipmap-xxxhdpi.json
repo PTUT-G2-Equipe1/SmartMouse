@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/home/f15003938/Bureau/SmartMouse/app/build/intermediates/res/merged/debug/mipmap-xxxhdpi/ic_launcher.png",
+        "source": "/home/f15003938/Bureau/SmartMouse/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/f15003938/Bureau/SmartMouse/app/build/intermediates/res/merged/debug/mipmap-xxxhdpi/ic_launcher_round.png",
+        "source": "/home/f15003938/Bureau/SmartMouse/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png"
+    }
+]

@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/home/f15003938/Bureau/SmartMouse/app/build/intermediates/res/merged/debug/layout-v21/notification_action.xml",
+        "source": "/home/f15003938/.android/build-cache/5a23c76f367b954ccbd509ae30890b47c8e1c74f/output/res/layout-v21/notification_action.xml"
+    },
+    {
+        "merged": "/home/f15003938/Bureau/SmartMouse/app/build/intermediates/res/merged/debug/layout-v21/notification_template_icon_group.xml",
+        "source": "/home/f15003938/.android/build-cache/5a23c76f367b954ccbd509ae30890b47c8e1c74f/output/res/layout-v21/notification_template_icon_group.xml"
+    },
+    {
+        "merged": "/home/f15003938/Bureau/SmartMouse/app/build/intermediates/res/merged/debug/layout-v21/notification_action_tombstone.xml",
+        "source": "/home/f15003938/.android/build-cache/5a23c76f367b954ccbd509ae30890b47c8e1c74f/output/res/layout-v21/notification_action_tombstone.xml"
+    },
+    {
+        "merged": "/home/f15003938/Bureau/SmartMouse/app/build/intermediates/res/merged/debug/layout-v21/notification_template_custom_big.xml",
+        "source": "/home/f15003938/.android/build-cache/5a23c76f367b954ccbd509ae30890b47c8e1c74f/output/res/layout-v21/notification_template_custom_big.xml"
+    }
+]

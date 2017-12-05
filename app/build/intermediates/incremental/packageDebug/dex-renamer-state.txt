@@ -1,0 +1,7 @@
+#Tue Dec 05 16:35:31 CET 2017
+base.0=/home/f15003938/Bureau/SmartMouse/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_8755a297f9a008ae2b0d089edc067912d2cf0a80
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=/home/f15003938/Bureau/SmartMouse/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_ba4085ea9be04d3aaa860ea67e4adbcf6169257a/classes.dex
+base.1=/home/f15003938/Bureau/SmartMouse/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_ba4085ea9be04d3aaa860ea67e4adbcf6169257a
+file.0=/home/f15003938/Bureau/SmartMouse/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_8755a297f9a008ae2b0d089edc067912d2cf0a80/classes.dex
