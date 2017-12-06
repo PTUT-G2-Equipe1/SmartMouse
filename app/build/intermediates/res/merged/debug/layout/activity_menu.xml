@@ -42,4 +42,11 @@
         android:layout_gravity="bottom"
         android:text="Réglages" />
 
+    <Button
+        android:id="@+id/connexion"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_gravity="bottom"
+        android:text="Connexion" />
+
 </TableLayout>

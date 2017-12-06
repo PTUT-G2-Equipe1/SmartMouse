@@ -1,4 +1,4 @@
-#Tue Dec 05 16:32:52 CET 2017
-base.0=/home/f15003938/Bureau/SmartMouse/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_2
+#Tue Dec 05 23:36:19 CET 2017
+base.0=/home/nicolas/Bureau/SmartMouse/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_2
 renamed.0=classes.dex
-file.0=/home/f15003938/Bureau/SmartMouse/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_2/classes.dex
+file.0=/home/nicolas/Bureau/SmartMouse/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_2/classes.dex

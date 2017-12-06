@@ -4,6 +4,10 @@
         "source": "/home/f15003938/.android/build-cache/5a23c76f367b954ccbd509ae30890b47c8e1c74f/output/res/layout-v11/notification_template_big_media.xml"
     },
     {
+        "merged": "/home/nicolas/Bureau/SmartMouse/app/build/intermediates/res/merged/debug/layout-v11/notification_template_big_media_narrow_custom.xml",
+        "source": "/home/nicolas/.android/build-cache/2b52b9c068d2c4a9d7286ed4c7720ac50db744a6/output/res/layout-v11/notification_template_big_media_narrow_custom.xml"
+    },
+    {
         "merged": "/home/f15003938/Bureau/SmartMouse/app/build/intermediates/res/merged/debug/layout-v11/notification_media_cancel_action.xml",
         "source": "/home/f15003938/.android/build-cache/5a23c76f367b954ccbd509ae30890b47c8e1c74f/output/res/layout-v11/notification_media_cancel_action.xml"
     },
@@ -12,8 +16,20 @@
         "source": "/home/f15003938/.android/build-cache/5a23c76f367b954ccbd509ae30890b47c8e1c74f/output/res/layout-v11/notification_media_action.xml"
     },
     {
+        "merged": "/home/nicolas/Bureau/SmartMouse/app/build/intermediates/res/merged/debug/layout-v11/notification_template_big_media_custom.xml",
+        "source": "/home/nicolas/.android/build-cache/2b52b9c068d2c4a9d7286ed4c7720ac50db744a6/output/res/layout-v11/notification_template_big_media_custom.xml"
+    },
+    {
         "merged": "/home/f15003938/Bureau/SmartMouse/app/build/intermediates/res/merged/debug/layout-v11/notification_template_big_media_narrow.xml",
         "source": "/home/f15003938/.android/build-cache/5a23c76f367b954ccbd509ae30890b47c8e1c74f/output/res/layout-v11/notification_template_big_media_narrow.xml"
+    },
+    {
+        "merged": "/home/nicolas/Bureau/SmartMouse/app/build/intermediates/res/merged/debug/layout-v11/notification_media_action.xml",
+        "source": "/home/nicolas/.android/build-cache/2b52b9c068d2c4a9d7286ed4c7720ac50db744a6/output/res/layout-v11/notification_media_action.xml"
+    },
+    {
+        "merged": "/home/nicolas/Bureau/SmartMouse/app/build/intermediates/res/merged/debug/layout-v11/notification_template_big_media_narrow.xml",
+        "source": "/home/nicolas/.android/build-cache/2b52b9c068d2c4a9d7286ed4c7720ac50db744a6/output/res/layout-v11/notification_template_big_media_narrow.xml"
     },
     {
         "merged": "/home/f15003938/Bureau/SmartMouse/app/build/intermediates/res/merged/debug/layout-v11/notification_template_big_media_custom.xml",
@@ -22,5 +38,13 @@
     {
         "merged": "/home/f15003938/Bureau/SmartMouse/app/build/intermediates/res/merged/debug/layout-v11/notification_template_big_media_narrow_custom.xml",
         "source": "/home/f15003938/.android/build-cache/5a23c76f367b954ccbd509ae30890b47c8e1c74f/output/res/layout-v11/notification_template_big_media_narrow_custom.xml"
+    },
+    {
+        "merged": "/home/nicolas/Bureau/SmartMouse/app/build/intermediates/res/merged/debug/layout-v11/notification_media_cancel_action.xml",
+        "source": "/home/nicolas/.android/build-cache/2b52b9c068d2c4a9d7286ed4c7720ac50db744a6/output/res/layout-v11/notification_media_cancel_action.xml"
+    },
+    {
+        "merged": "/home/nicolas/Bureau/SmartMouse/app/build/intermediates/res/merged/debug/layout-v11/notification_template_big_media.xml",
+        "source": "/home/nicolas/.android/build-cache/2b52b9c068d2c4a9d7286ed4c7720ac50db744a6/output/res/layout-v11/notification_template_big_media.xml"
     }
 ]

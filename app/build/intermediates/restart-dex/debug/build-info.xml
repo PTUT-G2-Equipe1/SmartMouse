@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <instant-run
     abi="x86"
-    api-level="22"
+    api-level="23"
     build-mode="FULL"
-    density="xhdpi"
+    density="hdpi"
     format="10"
     plugin-version="2.3.3"
-    timestamp="1512488116800"
+    timestamp="1512513529252"
     token="-1976528347420399364"
     verifier="FULL_BUILD_REQUESTED" >
 
@@ -18,22 +18,16 @@
         duration="0" />
     <task
         name="instant-run-transform"
-        duration="2682" />
+        duration="0" />
     <task
         name="verifier"
         duration="0" />
 
     <artifact
-        location="/home/f15003938/Bureau/SmartMouse/app/build/intermediates/split-apk/debug/slices/slice_6.apk"
-        type="SPLIT" />
-    <artifact
-        location="/home/f15003938/Bureau/SmartMouse/app/build/outputs/apk/app-debug.apk"
+        location="/home/nicolas/Bureau/SmartMouse/app/build/outputs/apk/app-debug.apk"
         type="SPLIT_MAIN" />
     <artifact
-        location="/home/f15003938/Bureau/SmartMouse/app/build/intermediates/split-apk/debug/slices/slice_8.apk"
-        type="SPLIT" />
-    <artifact
-        location="/home/f15003938/Bureau/SmartMouse/app/build/intermediates/split-apk/debug/slices/slice_3.apk"
+        location="/home/nicolas/Bureau/SmartMouse/app/build/intermediates/split-apk/debug/slices/slice_3.apk"
         type="SPLIT" />
     <artifact
         location="/home/f15003938/Bureau/SmartMouse/app/build/intermediates/split-apk/debug/slices/slice_2.apk"
@@ -45,36 +39,69 @@
         location="/home/f15003938/Bureau/SmartMouse/app/build/intermediates/split-apk/debug/slices/slice_4.apk"
         type="SPLIT" />
     <artifact
-        location="/home/f15003938/Bureau/SmartMouse/app/build/intermediates/split-apk/debug/slices/slice_1.apk"
+        location="/home/nicolas/Bureau/SmartMouse/app/build/intermediates/split-apk/debug/slices/slice_1.apk"
         type="SPLIT" />
     <artifact
         location="/home/f15003938/Bureau/SmartMouse/app/build/intermediates/split-apk/debug/slices/slice_7.apk"
         type="SPLIT" />
     <artifact
-        location="/home/f15003938/Bureau/SmartMouse/app/build/intermediates/split-apk/debug/slices/slice_5.apk"
+        location="/home/f15003938/Bureau/SmartMouse/app/build/intermediates/split-apk/debug/dep/dependencies.apk"
         type="SPLIT" />
     <artifact
-        location="/home/f15003938/Bureau/SmartMouse/app/build/intermediates/split-apk/debug/dep/dependencies.apk"
+        location="/home/nicolas/Bureau/SmartMouse/app/build/intermediates/split-apk/debug/slices/slice_4.apk"
         type="SPLIT" />
     <artifact
         location="/home/f15003938/Bureau/SmartMouse/app/build/intermediates/split-apk/debug/slices/slice_0.apk"
         type="SPLIT" />
+    <artifact
+        location="/home/nicolas/Bureau/SmartMouse/app/build/intermediates/split-apk/debug/slices/slice_6.apk"
+        type="SPLIT" />
+    <artifact
+        location="/home/nicolas/Bureau/SmartMouse/app/build/intermediates/split-apk/debug/slices/slice_8.apk"
+        type="SPLIT" />
+    <artifact
+        location="/home/f15003938/Bureau/SmartMouse/app/build/intermediates/split-apk/debug/slices/slice_8.apk"
+        type="SPLIT" />
+    <artifact
+        location="/home/nicolas/Bureau/SmartMouse/app/build/intermediates/split-apk/debug/slices/slice_2.apk"
+        type="SPLIT" />
+    <artifact
+        location="/home/f15003938/Bureau/SmartMouse/app/build/intermediates/split-apk/debug/slices/slice_3.apk"
+        type="SPLIT" />
+    <artifact
+        location="/home/f15003938/Bureau/SmartMouse/app/build/intermediates/split-apk/debug/slices/slice_1.apk"
+        type="SPLIT" />
+    <artifact
+        location="/home/nicolas/Bureau/SmartMouse/app/build/intermediates/split-apk/debug/slices/slice_0.apk"
+        type="SPLIT" />
+    <artifact
+        location="/home/f15003938/Bureau/SmartMouse/app/build/intermediates/split-apk/debug/slices/slice_6.apk"
+        type="SPLIT" />
+    <artifact
+        location="/home/f15003938/Bureau/SmartMouse/app/build/intermediates/split-apk/debug/slices/slice_5.apk"
+        type="SPLIT" />
+    <artifact
+        location="/home/nicolas/Bureau/SmartMouse/app/build/intermediates/split-apk/debug/slices/slice_5.apk"
+        type="SPLIT" />
+    <artifact
+        location="/home/nicolas/Bureau/SmartMouse/app/build/intermediates/split-apk/debug/dep/dependencies.apk"
+        type="SPLIT" />
+    <artifact
+        location="/home/nicolas/Bureau/SmartMouse/app/build/intermediates/split-apk/debug/slices/slice_9.apk"
+        type="SPLIT" />
+    <artifact
+        location="/home/nicolas/Bureau/SmartMouse/app/build/intermediates/split-apk/debug/slices/slice_7.apk"
+        type="SPLIT" />
 
     <build
         build-mode="FULL"
-        timestamp="1512488116800"
+        timestamp="1512513529252"
         verifier="FULL_BUILD_REQUESTED" >
         <artifact
-            location="/home/f15003938/Bureau/SmartMouse/app/build/intermediates/split-apk/debug/slices/slice_6.apk"
-            type="SPLIT" />
-        <artifact
-            location="/home/f15003938/Bureau/SmartMouse/app/build/outputs/apk/app-debug.apk"
+            location="/home/nicolas/Bureau/SmartMouse/app/build/outputs/apk/app-debug.apk"
             type="SPLIT_MAIN" />
         <artifact
-            location="/home/f15003938/Bureau/SmartMouse/app/build/intermediates/split-apk/debug/slices/slice_8.apk"
-            type="SPLIT" />
-        <artifact
-            location="/home/f15003938/Bureau/SmartMouse/app/build/intermediates/split-apk/debug/slices/slice_3.apk"
+            location="/home/nicolas/Bureau/SmartMouse/app/build/intermediates/split-apk/debug/slices/slice_3.apk"
             type="SPLIT" />
         <artifact
             location="/home/f15003938/Bureau/SmartMouse/app/build/intermediates/split-apk/debug/slices/slice_2.apk"
@@ -86,19 +113,58 @@
             location="/home/f15003938/Bureau/SmartMouse/app/build/intermediates/split-apk/debug/slices/slice_4.apk"
             type="SPLIT" />
         <artifact
-            location="/home/f15003938/Bureau/SmartMouse/app/build/intermediates/split-apk/debug/slices/slice_1.apk"
+            location="/home/nicolas/Bureau/SmartMouse/app/build/intermediates/split-apk/debug/slices/slice_1.apk"
             type="SPLIT" />
         <artifact
             location="/home/f15003938/Bureau/SmartMouse/app/build/intermediates/split-apk/debug/slices/slice_7.apk"
             type="SPLIT" />
         <artifact
-            location="/home/f15003938/Bureau/SmartMouse/app/build/intermediates/split-apk/debug/slices/slice_5.apk"
-            type="SPLIT" />
-        <artifact
             location="/home/f15003938/Bureau/SmartMouse/app/build/intermediates/split-apk/debug/dep/dependencies.apk"
             type="SPLIT" />
         <artifact
+            location="/home/nicolas/Bureau/SmartMouse/app/build/intermediates/split-apk/debug/slices/slice_4.apk"
+            type="SPLIT" />
+        <artifact
             location="/home/f15003938/Bureau/SmartMouse/app/build/intermediates/split-apk/debug/slices/slice_0.apk"
+            type="SPLIT" />
+        <artifact
+            location="/home/nicolas/Bureau/SmartMouse/app/build/intermediates/split-apk/debug/slices/slice_6.apk"
+            type="SPLIT" />
+        <artifact
+            location="/home/nicolas/Bureau/SmartMouse/app/build/intermediates/split-apk/debug/slices/slice_8.apk"
+            type="SPLIT" />
+        <artifact
+            location="/home/f15003938/Bureau/SmartMouse/app/build/intermediates/split-apk/debug/slices/slice_8.apk"
+            type="SPLIT" />
+        <artifact
+            location="/home/nicolas/Bureau/SmartMouse/app/build/intermediates/split-apk/debug/slices/slice_2.apk"
+            type="SPLIT" />
+        <artifact
+            location="/home/f15003938/Bureau/SmartMouse/app/build/intermediates/split-apk/debug/slices/slice_3.apk"
+            type="SPLIT" />
+        <artifact
+            location="/home/f15003938/Bureau/SmartMouse/app/build/intermediates/split-apk/debug/slices/slice_1.apk"
+            type="SPLIT" />
+        <artifact
+            location="/home/nicolas/Bureau/SmartMouse/app/build/intermediates/split-apk/debug/slices/slice_0.apk"
+            type="SPLIT" />
+        <artifact
+            location="/home/f15003938/Bureau/SmartMouse/app/build/intermediates/split-apk/debug/slices/slice_6.apk"
+            type="SPLIT" />
+        <artifact
+            location="/home/f15003938/Bureau/SmartMouse/app/build/intermediates/split-apk/debug/slices/slice_5.apk"
+            type="SPLIT" />
+        <artifact
+            location="/home/nicolas/Bureau/SmartMouse/app/build/intermediates/split-apk/debug/slices/slice_5.apk"
+            type="SPLIT" />
+        <artifact
+            location="/home/nicolas/Bureau/SmartMouse/app/build/intermediates/split-apk/debug/dep/dependencies.apk"
+            type="SPLIT" />
+        <artifact
+            location="/home/nicolas/Bureau/SmartMouse/app/build/intermediates/split-apk/debug/slices/slice_9.apk"
+            type="SPLIT" />
+        <artifact
+            location="/home/nicolas/Bureau/SmartMouse/app/build/intermediates/split-apk/debug/slices/slice_7.apk"
             type="SPLIT" />
     </build>
 

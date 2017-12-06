@@ -15,7 +15,7 @@ public class Menu extends AppCompatActivity {
     private Button souris;
     private Button tele;
     private Button reglages;
-
+    private Button connexion;
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
@@ -25,6 +25,7 @@ public class Menu extends AppCompatActivity {
         souris = (Button) findViewById(R.id.souris);
         tele = (Button) findViewById(R.id.tele);
         reglages = (Button) findViewById(R.id.reglage);
+        connexion = (Button) findViewById(R.id.connexion);
 
         souris.setOnClickListener(new View.OnClickListener() {
             @Override
@@ -38,6 +39,14 @@ public class Menu extends AppCompatActivity {
             @Override
             public void onClick(View v) {
                 Intent tel = new Intent(Menu.this, Telecommande.class);
+                startActivity(tel);
+            }
+        });
+
+        connexion.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                Intent tel = new Intent(Menu.this, Connexion.class);
                 startActivity(tel);
             }
         });
