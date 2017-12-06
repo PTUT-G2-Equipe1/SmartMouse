@@ -52,15 +52,10 @@ public class Connexion extends AppCompatActivity {
         if (!BA.isEnabled()) {
             Intent turnOn = new Intent(BluetoothAdapter.ACTION_REQUEST_ENABLE);
             startActivityForResult(turnOn, 0);
-            Toast.makeText(getApplicationContext(), "Turned on",Toast.LENGTH_LONG).show();
+            Toast.makeText(getApplicationContext(), "Active",Toast.LENGTH_LONG).show();
         } else {
-            Toast.makeText(getApplicationContext(), "Already on", Toast.LENGTH_LONG).show();
+            Toast.makeText(getApplicationContext(), "Deja active !", Toast.LENGTH_LONG).show();
         }
-    }
-
-    public void off(View v){
-        BA.disable();
-        Toast.makeText(getApplicationContext(), "Turned off" ,Toast.LENGTH_LONG).show();
     }
 
 
