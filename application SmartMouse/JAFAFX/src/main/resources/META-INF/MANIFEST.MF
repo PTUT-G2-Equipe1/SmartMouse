@@ -1,3 +1,0 @@
-Manifest-Version: 1.0
-Created-By: IUTINFOAIX
-Main-Class: fr.univ_amu.iut.Main
