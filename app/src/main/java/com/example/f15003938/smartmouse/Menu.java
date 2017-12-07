@@ -52,7 +52,7 @@ public class Menu extends AppCompatActivity {
         connexion.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
-                Intent tel = new Intent(Menu.this, Connexion.class);
+                Intent tel = new Intent(Menu.this, ConnexionBT.class);
                 startActivity(tel);
             }
         });

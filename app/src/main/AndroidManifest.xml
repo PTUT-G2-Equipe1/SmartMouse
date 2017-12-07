@@ -19,7 +19,7 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
-        <activity android:name=".Connexion" />
+        <activity android:name=".ConnexionBT" />
         <activity android:name=".Reglages" />
         <activity android:name=".Souris" />
         <activity android:name=".Telecommande"></activity>

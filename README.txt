@@ -5,5 +5,7 @@ Nous tenons à vous informer que les contributions sur Github ne reflètent pas 
 De plus, afin de pouvoir tester l'application, s'il y a une erreur lors de l'installation de l'application, veuillez faire la manipulation suivante :
 File --> Settings --> Build, Execution, Deployment --> Instant Run et décocher la case "Instant run". 
 
+Le projet a été realisé sous Android Studio.
+
 Merci. 
 

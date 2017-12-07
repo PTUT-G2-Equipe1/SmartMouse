@@ -18,27 +18,27 @@ import java.util.ArrayList;
 import java.util.HashSet;
 import java.util.Set;
 
-public class Connexion extends AppCompatActivity {
+public class ConnexionBT extends AppCompatActivity {
 
     private Button retour;
-    Button b1,b2,b3,b4;
-    private BluetoothAdapter BA;
+    Button b1,b2,b3;
+    private BluetoothAdapter BluetoothAdap;
     private Set<BluetoothDevice>pairedDevices;
-    ListView lv;
-    private Set<BluetoothDevice>nearbyDevices = new HashSet<>();
+    ListView listeVue;
+    private Set<BluetoothDevice> appareilsProches = new HashSet<>();
     @Override
-    protected void onCreate(Bundle savedInstanceState) {
-        super.onCreate(savedInstanceState);
-        setContentView(R.layout.activity_connexion);
+    protected void onCreate(Bundle etatInstaceSauv) {
+        super.onCreate(etatInstaceSauv);
+        setContentView(R.layout.activity_connexionbt);
 
         retour = (Button) findViewById(R.id.retour);
 
-        b1 = (Button) findViewById(R.id.button);
+        b1 =(Button) findViewById(R.id.button);
         b2=(Button)findViewById(R.id.button2);
         b3=(Button)findViewById(R.id.button3);
 
-        BA = BluetoothAdapter.getDefaultAdapter();
-        lv = (ListView)findViewById(R.id.listView);
+        BluetoothAdap = BluetoothAdapter.getDefaultAdapter();
+        listeVue = (ListView)findViewById(R.id.listView);
 
         /**
          * Ecouteur permettant de changer de menu
@@ -46,7 +46,7 @@ public class Connexion extends AppCompatActivity {
         retour.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
-                Intent ret = new Intent(Connexion.this, Menu.class);
+                Intent ret = new Intent(ConnexionBT.this, Menu.class);
                 ret.addFlags(Intent.FLAG_ACTIVITY_CLEAR_TOP);
                 ret.addFlags(Intent.FLAG_ACTIVITY_NEW_TASK);
                 startActivity(ret);
@@ -59,8 +59,8 @@ public class Connexion extends AppCompatActivity {
      * @param v
      * Cette fonction permet de demander l'activation du bluetooth et d'activer ce dernier
      */
-    public void on(View v){
-        if (!BA.isEnabled()) {
+    public void activer(View v){
+        if (!BluetoothAdap.isEnabled()) {
             Intent turnOn = new Intent(BluetoothAdapter.ACTION_REQUEST_ENABLE);
             startActivityForResult(turnOn, 0);
             Toast.makeText(getApplicationContext(), "Active",Toast.LENGTH_LONG).show();
@@ -84,24 +84,18 @@ public class Connexion extends AppCompatActivity {
      * @param v
      * Cette fonction permet de creer une liste d'appareils deja connecte au telephone
      */
-    public void list(View v){
-        pairedDevices = BA.getBondedDevices();
+    public void liste(View v){
+        pairedDevices = BluetoothAdap.getBondedDevices();
 
         ArrayList list = new ArrayList();
 
         for(BluetoothDevice bt : pairedDevices) list.add(bt.getName());
         Toast.makeText(getApplicationContext(), "Pairs..",Toast.LENGTH_SHORT).show();
 
-        final ArrayAdapter adapter = new  ArrayAdapter(this,android.R.layout.simple_list_item_1, list);
+        final ArrayAdapter adapteur = new  ArrayAdapter(this,android.R.layout.simple_list_item_1, list);
 
-        lv.setAdapter(adapter);
+        listeVue.setAdapter(adapteur);
     }
-
-//    public void scanner(View view) { // Scan for new bluetooth devices
-//        Toast.makeText(getApplicationContext(), "Scan..", Toast.LENGTH_LONG).show();
-//        BA.cancelDiscovery();
-//        BA.startDiscovery();
-//    }
 
     /**
      *
@@ -110,19 +104,19 @@ public class Connexion extends AppCompatActivity {
      */
     public  void scanner(View v){
         Toast.makeText(getApplicationContext(), "Scan..", Toast.LENGTH_LONG).show();
-        BA.cancelDiscovery();
-        BA.startDiscovery();
-        pairedDevices = BA.getBondedDevices();
+        BluetoothAdap.cancelDiscovery();
+        BluetoothAdap.startDiscovery();
+        pairedDevices = BluetoothAdap.getBondedDevices();
         ArrayList list = new ArrayList();
 
-        if (nearbyDevices.size() == 0) Toast.makeText(getApplicationContext(), "Pas d'appareil à proximité",Toast.LENGTH_SHORT).show();
+        if (appareilsProches.size() == 0) Toast.makeText(getApplicationContext(), "Pas d'appareil à proximité",Toast.LENGTH_SHORT).show();
 
-        for(BluetoothDevice bt : nearbyDevices) list.add(bt.getName());
-        Toast.makeText(getApplicationContext(), "Les appareils proche",Toast.LENGTH_SHORT).show();
+        for(BluetoothDevice bt : appareilsProches) list.add(bt.getName());
+        Toast.makeText(getApplicationContext(), "Les appareils proches",Toast.LENGTH_SHORT).show();
 
-        final ArrayAdapter adapter = new  ArrayAdapter(this,android.R.layout.simple_list_item_1, list);
+        final ArrayAdapter adapteur = new  ArrayAdapter(this,android.R.layout.simple_list_item_1, list);
 
-        lv.setAdapter(adapter);
+        listeVue.setAdapter(adapteur);
     }
 
     /**
@@ -134,8 +128,8 @@ public class Connexion extends AppCompatActivity {
             String action = intent.getAction();
             if (BluetoothDevice.ACTION_FOUND.equals(action)) {
                 BluetoothDevice device = intent.getParcelableExtra(BluetoothDevice.EXTRA_DEVICE);
-                Toast.makeText(Connexion.this, "Appareil à proximité " + device.getName(), Toast.LENGTH_SHORT).show();
-                nearbyDevices.add(device);
+                Toast.makeText(ConnexionBT.this, "Appareil à proximité " + device.getName(), Toast.LENGTH_SHORT).show();
+                appareilsProches.add(device);
             }
         }
     };

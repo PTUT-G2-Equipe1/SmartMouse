@@ -56,12 +56,12 @@
         "source": "/home/nicolas/.android/build-cache/2b52b9c068d2c4a9d7286ed4c7720ac50db744a6/output/res/color/abc_tint_switch_thumb.xml"
     },
     {
-        "merged": "/home/nicolas/Bureau/SmartMouse/application SmartMouse/app/build/intermediates/res/merged/debug/color/abc_btn_colored_text_material.xml",
-        "source": "/home/nicolas/.android/build-cache/2b52b9c068d2c4a9d7286ed4c7720ac50db744a6/output/res/color/abc_btn_colored_text_material.xml"
-    },
-    {
         "merged": "/home/nicolas/Bureau/SmartMouse/app/build/intermediates/res/merged/debug/color/switch_thumb_material_light.xml",
         "source": "/home/nicolas/.android/build-cache/2b52b9c068d2c4a9d7286ed4c7720ac50db744a6/output/res/color/switch_thumb_material_light.xml"
+    },
+    {
+        "merged": "/home/nicolas/Bureau/SmartMouse/application SmartMouse/app/build/intermediates/res/merged/debug/color/abc_btn_colored_text_material.xml",
+        "source": "/home/nicolas/.android/build-cache/2b52b9c068d2c4a9d7286ed4c7720ac50db744a6/output/res/color/abc_btn_colored_text_material.xml"
     },
     {
         "merged": "/home/nicolas/Bureau/SmartMouse/app/build/intermediates/res/merged/debug/color/abc_tint_btn_checkable.xml",

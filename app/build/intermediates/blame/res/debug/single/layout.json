@@ -24,24 +24,24 @@
         "source": "/home/nicolas/.android/build-cache/2b52b9c068d2c4a9d7286ed4c7720ac50db744a6/output/res/layout/abc_action_bar_up_container.xml"
     },
     {
-        "merged": "/home/nicolas/Bureau/application SmartMouse/app/build/intermediates/res/merged/debug/layout/activity_menu.xml",
-        "source": "/home/nicolas/Bureau/application SmartMouse/app/src/main/res/layout/activity_menu.xml"
+        "merged": "/home/nicolas/Bureau/SmartMouse/app/build/intermediates/res/merged/debug/layout/abc_expanded_menu_layout.xml",
+        "source": "/home/nicolas/.android/build-cache/2b52b9c068d2c4a9d7286ed4c7720ac50db744a6/output/res/layout/abc_expanded_menu_layout.xml"
     },
     {
         "merged": "/home/nicolas/Bureau/SmartMouse/app/build/intermediates/res/merged/debug/layout/abc_action_bar_up_container.xml",
         "source": "/home/nicolas/.android/build-cache/2b52b9c068d2c4a9d7286ed4c7720ac50db744a6/output/res/layout/abc_action_bar_up_container.xml"
     },
     {
-        "merged": "/home/nicolas/Bureau/SmartMouse/app/build/intermediates/res/merged/debug/layout/abc_expanded_menu_layout.xml",
-        "source": "/home/nicolas/.android/build-cache/2b52b9c068d2c4a9d7286ed4c7720ac50db744a6/output/res/layout/abc_expanded_menu_layout.xml"
-    },
-    {
-        "merged": "/home/nicolas/Bureau/SmartMouse/application SmartMouse/app/build/intermediates/res/merged/debug/layout/abc_alert_dialog_button_bar_material.xml",
-        "source": "/home/nicolas/.android/build-cache/2b52b9c068d2c4a9d7286ed4c7720ac50db744a6/output/res/layout/abc_alert_dialog_button_bar_material.xml"
+        "merged": "/home/nicolas/Bureau/application SmartMouse/app/build/intermediates/res/merged/debug/layout/activity_menu.xml",
+        "source": "/home/nicolas/Bureau/application SmartMouse/app/src/main/res/layout/activity_menu.xml"
     },
     {
         "merged": "/home/nicolas/Bureau/SmartMouse/app/build/intermediates/res/merged/debug/layout/notification_template_part_chronometer.xml",
         "source": "/home/nicolas/.android/build-cache/2b52b9c068d2c4a9d7286ed4c7720ac50db744a6/output/res/layout/notification_template_part_chronometer.xml"
+    },
+    {
+        "merged": "/home/nicolas/Bureau/SmartMouse/application SmartMouse/app/build/intermediates/res/merged/debug/layout/abc_alert_dialog_button_bar_material.xml",
+        "source": "/home/nicolas/.android/build-cache/2b52b9c068d2c4a9d7286ed4c7720ac50db744a6/output/res/layout/abc_alert_dialog_button_bar_material.xml"
     },
     {
         "merged": "/home/nicolas/Bureau/SmartMouse/application SmartMouse/app/build/intermediates/res/merged/debug/layout/abc_alert_dialog_title_material.xml",
@@ -414,6 +414,10 @@
     {
         "merged": "/home/nicolas/Bureau/SmartMouse/app/build/intermediates/res/merged/debug/layout/abc_action_mode_close_item_material.xml",
         "source": "/home/nicolas/.android/build-cache/2b52b9c068d2c4a9d7286ed4c7720ac50db744a6/output/res/layout/abc_action_mode_close_item_material.xml"
+    },
+    {
+        "merged": "/home/nicolas/Bureau/SmartMouse/app/build/intermediates/res/merged/debug/layout/activity_connexionbt.xml",
+        "source": "/home/nicolas/Bureau/SmartMouse/app/src/main/res/layout/activity_connexionbt.xml"
     },
     {
         "merged": "/home/nicolas/Bureau/SmartMouse/application SmartMouse/app/build/intermediates/res/merged/debug/layout/abc_dialog_title_material.xml",

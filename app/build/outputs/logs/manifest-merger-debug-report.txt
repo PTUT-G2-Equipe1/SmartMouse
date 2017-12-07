@@ -59,10 +59,10 @@ category#android.intent.category.LAUNCHER
 ADDED from /home/nicolas/Bureau/SmartMouse/app/src/main/AndroidManifest.xml:19:17-77
 	android:name
 		ADDED from /home/nicolas/Bureau/SmartMouse/app/src/main/AndroidManifest.xml:19:27-74
-activity#com.example.f15003938.smartmouse.Connexion
-ADDED from /home/nicolas/Bureau/SmartMouse/app/src/main/AndroidManifest.xml:22:9-47
+activity#com.example.f15003938.smartmouse.ConnexionBT
+ADDED from /home/nicolas/Bureau/SmartMouse/app/src/main/AndroidManifest.xml:22:9-49
 	android:name
-		ADDED from /home/nicolas/Bureau/SmartMouse/app/src/main/AndroidManifest.xml:22:19-44
+		ADDED from /home/nicolas/Bureau/SmartMouse/app/src/main/AndroidManifest.xml:22:19-46
 activity#com.example.f15003938.smartmouse.Reglages
 ADDED from /home/nicolas/Bureau/SmartMouse/app/src/main/AndroidManifest.xml:23:9-46
 	android:name

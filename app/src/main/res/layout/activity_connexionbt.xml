@@ -22,7 +22,7 @@
         android:layout_toRightOf="@+id/button3"
         android:layout_toStartOf="@+id/button2"
         android:clickable="true"
-        android:onClick="on"
+        android:onClick="activer"
         android:text="Active" />
 
     <Button
@@ -43,7 +43,7 @@
         android:layout_below="@+id/imageView"
         android:layout_toEndOf="@+id/retour"
         android:layout_toRightOf="@+id/retour"
-        android:onClick="list"
+        android:onClick="liste"
         android:text="Pairs" />
 
     <Button
