@@ -71,10 +71,17 @@ public class Connexion extends AppCompatActivity {
         ArrayList list = new ArrayList();
 
         for(BluetoothDevice bt : pairedDevices) list.add(bt.getName());
-        Toast.makeText(getApplicationContext(), "Showing Paired Devices",Toast.LENGTH_SHORT).show();
+        Toast.makeText(getApplicationContext(), "Pairs..",Toast.LENGTH_SHORT).show();
 
         final ArrayAdapter adapter = new  ArrayAdapter(this,android.R.layout.simple_list_item_1, list);
 
         lv.setAdapter(adapter);
     }
+
+    public void scanner(View view) { // Scan for new bluetooth devices
+        Toast.makeText(getApplicationContext(), "Scan..", Toast.LENGTH_LONG).show();
+        BA.cancelDiscovery();
+        BA.startDiscovery();
+    }
+
 }
