@@ -6,7 +6,7 @@ De plus, afin de pouvoir tester l'application, s'il y a une erreur lors de l'ins
 File --> Settings --> Build, Execution, Deployment --> Instant Run et décocher la case "Instant run". 
 
 Le projet a été realisé sous Android Studio.
-Le projet utilise la technologie bluetooth non emulable sur android sutdio, pour tester les fonctions d'activation bluetooth, affichage des connexions, et scanner il faudra donc generer l'apk et l'installer sur un téléphone android.
+Le projet utilise la technologie bluetooth non emulable sur android sutdio, pour tester les fonctions d'activation bluetooth, affichage des connexions, et scanner il faudra installer l'apk sur un téléphone android. L'apk se trouve dans /SmartMouse/app/build/output/apk/
 
 Merci. 
 
