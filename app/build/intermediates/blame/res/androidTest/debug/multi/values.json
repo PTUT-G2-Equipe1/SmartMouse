@@ -22,53 +22,5 @@
                 }
             }
         ]
-    },
-    {
-        "outputFile": "/home/nicolas/Bureau/application SmartMouse/app/build/intermediates/incremental/mergeDebugAndroidTestResources/merged.dir/values/values.xml",
-        "map": [
-            {
-                "to": {
-                    "startLine": 2,
-                    "startColumn": 4,
-                    "startOffset": 55,
-                    "endColumn": 45,
-                    "endOffset": 96
-                },
-                "from": {
-                    "file": "/home/nicolas/.android/build-cache/995d9ed2ed325f7f4ccf34174ae27725951adfc8/output/res/values/values.xml",
-                    "position": {
-                        "startLine": 4,
-                        "startColumn": 4,
-                        "startOffset": 229,
-                        "endColumn": 45,
-                        "endOffset": 270
-                    }
-                }
-            }
-        ]
-    },
-    {
-        "outputFile": "/home/nicolas/Bureau/SmartMouse/application SmartMouse/app/build/intermediates/incremental/mergeDebugAndroidTestResources/merged.dir/values/values.xml",
-        "map": [
-            {
-                "to": {
-                    "startLine": 2,
-                    "startColumn": 4,
-                    "startOffset": 55,
-                    "endColumn": 45,
-                    "endOffset": 96
-                },
-                "from": {
-                    "file": "/home/nicolas/.android/build-cache/995d9ed2ed325f7f4ccf34174ae27725951adfc8/output/res/values/values.xml",
-                    "position": {
-                        "startLine": 4,
-                        "startColumn": 4,
-                        "startOffset": 229,
-                        "endColumn": 45,
-                        "endOffset": 270
-                    }
-                }
-            }
-        ]
     }
 ]

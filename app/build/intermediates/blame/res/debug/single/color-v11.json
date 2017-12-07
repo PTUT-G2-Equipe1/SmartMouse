@@ -1,26 +1,10 @@
 [
     {
-        "merged": "/home/nicolas/Bureau/SmartMouse/application SmartMouse/app/build/intermediates/res/merged/debug/color-v11/abc_background_cache_hint_selector_material_dark.xml",
-        "source": "/home/nicolas/.android/build-cache/2b52b9c068d2c4a9d7286ed4c7720ac50db744a6/output/res/color-v11/abc_background_cache_hint_selector_material_dark.xml"
-    },
-    {
         "merged": "/home/nicolas/Bureau/SmartMouse/app/build/intermediates/res/merged/debug/color-v11/abc_background_cache_hint_selector_material_light.xml",
         "source": "/home/nicolas/.android/build-cache/2b52b9c068d2c4a9d7286ed4c7720ac50db744a6/output/res/color-v11/abc_background_cache_hint_selector_material_light.xml"
     },
     {
-        "merged": "/home/nicolas/Bureau/application SmartMouse/app/build/intermediates/res/merged/debug/color-v11/abc_background_cache_hint_selector_material_dark.xml",
-        "source": "/home/nicolas/.android/build-cache/2b52b9c068d2c4a9d7286ed4c7720ac50db744a6/output/res/color-v11/abc_background_cache_hint_selector_material_dark.xml"
-    },
-    {
         "merged": "/home/nicolas/Bureau/SmartMouse/app/build/intermediates/res/merged/debug/color-v11/abc_background_cache_hint_selector_material_dark.xml",
         "source": "/home/nicolas/.android/build-cache/2b52b9c068d2c4a9d7286ed4c7720ac50db744a6/output/res/color-v11/abc_background_cache_hint_selector_material_dark.xml"
-    },
-    {
-        "merged": "/home/nicolas/Bureau/SmartMouse/application SmartMouse/app/build/intermediates/res/merged/debug/color-v11/abc_background_cache_hint_selector_material_light.xml",
-        "source": "/home/nicolas/.android/build-cache/2b52b9c068d2c4a9d7286ed4c7720ac50db744a6/output/res/color-v11/abc_background_cache_hint_selector_material_light.xml"
-    },
-    {
-        "merged": "/home/nicolas/Bureau/application SmartMouse/app/build/intermediates/res/merged/debug/color-v11/abc_background_cache_hint_selector_material_light.xml",
-        "source": "/home/nicolas/.android/build-cache/2b52b9c068d2c4a9d7286ed4c7720ac50db744a6/output/res/color-v11/abc_background_cache_hint_selector_material_light.xml"
     }
 ]
