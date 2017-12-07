@@ -87,5 +87,4 @@
         android:text="Connexions :"
         android:textColor="#ff34ff06"
         android:textSize="25dp" />
-
 </RelativeLayout>
