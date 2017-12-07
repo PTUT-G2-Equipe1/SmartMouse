@@ -25,7 +25,6 @@ public class Connexion extends AppCompatActivity {
     private BluetoothAdapter BA;
     private Set<BluetoothDevice>pairedDevices;
     ListView lv;
-    //j'ai rajouté :
     private Set<BluetoothDevice>nearbyDevices = new HashSet<>();
     @Override
     protected void onCreate(Bundle savedInstanceState) {
