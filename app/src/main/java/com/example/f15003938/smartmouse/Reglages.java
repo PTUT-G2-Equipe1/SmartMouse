@@ -23,21 +23,11 @@ public class Reglages extends AppCompatActivity {
 
         retour = (Button) findViewById(R.id.retour);
 
-        modenuit = (Switch) findViewById(R.id.ModeNuit);
+        /**
+         * Mode nuit
+         */
+       /* modenuit = (Switch) findViewById(R.id.ModeNuit);
         modenuit.setChecked(false);
-        modenuit.setOnCheckedChangeListener(new CompoundButton.OnCheckedChangeListener() {
-            @Override
-            public void onCheckedChanged(CompoundButton buttonView, boolean isChecked) {
-                if (isChecked){
-                    AppCompatDelegate.setDefaultNightMode(AppCompatDelegate.MODE_NIGHT_YES);
-
-                }else{
-                    AppCompatDelegate.setDefaultNightMode(AppCompatDelegate.MODE_NIGHT_NO);
-                }
-            }
-        });
-        super.onCreate(savedInstanceState);
-        super.recreate();
         modenuit.setOnCheckedChangeListener(new CompoundButton.OnCheckedChangeListener() {
             @Override
             public void onCheckedChanged(CompoundButton buttonView, boolean isChecked) {
@@ -51,6 +41,9 @@ public class Reglages extends AppCompatActivity {
                 }
             }
         });
+
+        super.onCreate(savedInstanceState);
+        super.recreate();*/
         /**
          * Ecouteur permettant de changer de menu
          */
