@@ -41,17 +41,16 @@ public class Reglages extends AppCompatActivity {
         modenuit.setOnCheckedChangeListener(new CompoundButton.OnCheckedChangeListener() {
             @Override
             public void onCheckedChanged(CompoundButton buttonView, boolean isChecked) {
-                if (isChecked){
+                if (isChecked) {
                     AppCompatDelegate.setDefaultNightMode(AppCompatDelegate.MODE_NIGHT_YES);
                     recreate();
 
-                }else{
+                } else {
                     AppCompatDelegate.setDefaultNightMode(AppCompatDelegate.MODE_NIGHT_NO);
                     recreate();
                 }
             }
         });
-    }
         /**
          * Ecouteur permettant de changer de menu
          */
@@ -65,4 +64,5 @@ public class Reglages extends AppCompatActivity {
             }
         });
     }
+}
 }
