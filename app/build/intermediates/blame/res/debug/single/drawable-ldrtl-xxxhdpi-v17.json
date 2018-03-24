@@ -1,14 +1,26 @@
 [
     {
-        "merged": "/home/nicolas/Bureau/SmartMouse/app/build/intermediates/res/merged/debug/drawable-ldrtl-xxxhdpi-v17/abc_ic_menu_copy_mtrl_am_alpha.png",
-        "source": "/home/nicolas/.android/build-cache/2b52b9c068d2c4a9d7286ed4c7720ac50db744a6/output/res/drawable-ldrtl-xxxhdpi-v17/abc_ic_menu_copy_mtrl_am_alpha.png"
+        "merged": "C:\\home\\nicolas\\Bureau\\SmartMouse\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldrtl-xxxhdpi-v17\\abc_ic_menu_cut_mtrl_alpha.png",
+        "source": "C:\\home\\nicolas\\.android\\build-cache\\2b52b9c068d2c4a9d7286ed4c7720ac50db744a6\\output\\res\\drawable-ldrtl-xxxhdpi-v17\\abc_ic_menu_cut_mtrl_alpha.png"
     },
     {
-        "merged": "/home/nicolas/Bureau/SmartMouse/app/build/intermediates/res/merged/debug/drawable-ldrtl-xxxhdpi-v17/abc_spinner_mtrl_am_alpha.9.png",
-        "source": "/home/nicolas/.android/build-cache/2b52b9c068d2c4a9d7286ed4c7720ac50db744a6/output/res/drawable-ldrtl-xxxhdpi-v17/abc_spinner_mtrl_am_alpha.9.png"
+        "merged": "C:\\home\\nicolas\\Bureau\\SmartMouse\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldrtl-xxxhdpi-v17\\abc_ic_menu_copy_mtrl_am_alpha.png",
+        "source": "C:\\home\\nicolas\\.android\\build-cache\\2b52b9c068d2c4a9d7286ed4c7720ac50db744a6\\output\\res\\drawable-ldrtl-xxxhdpi-v17\\abc_ic_menu_copy_mtrl_am_alpha.png"
     },
     {
-        "merged": "/home/nicolas/Bureau/SmartMouse/app/build/intermediates/res/merged/debug/drawable-ldrtl-xxxhdpi-v17/abc_ic_menu_cut_mtrl_alpha.png",
-        "source": "/home/nicolas/.android/build-cache/2b52b9c068d2c4a9d7286ed4c7720ac50db744a6/output/res/drawable-ldrtl-xxxhdpi-v17/abc_ic_menu_cut_mtrl_alpha.png"
+        "merged": "C:\\Users\\Axel1\\Desktop\\SmartMouse\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldrtl-xxxhdpi-v17\\abc_spinner_mtrl_am_alpha.9.png",
+        "source": "C:\\Users\\Axel1\\.android\\build-cache\\0fe2637accbf64e5f3c6f74de1bf388c5dd05e9c\\output\\res\\drawable-ldrtl-xxxhdpi-v17\\abc_spinner_mtrl_am_alpha.9.png"
+    },
+    {
+        "merged": "C:\\home\\nicolas\\Bureau\\SmartMouse\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldrtl-xxxhdpi-v17\\abc_spinner_mtrl_am_alpha.9.png",
+        "source": "C:\\home\\nicolas\\.android\\build-cache\\2b52b9c068d2c4a9d7286ed4c7720ac50db744a6\\output\\res\\drawable-ldrtl-xxxhdpi-v17\\abc_spinner_mtrl_am_alpha.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Axel1\\Desktop\\SmartMouse\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldrtl-xxxhdpi-v17\\abc_ic_menu_copy_mtrl_am_alpha.png",
+        "source": "C:\\Users\\Axel1\\.android\\build-cache\\0fe2637accbf64e5f3c6f74de1bf388c5dd05e9c\\output\\res\\drawable-ldrtl-xxxhdpi-v17\\abc_ic_menu_copy_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "C:\\Users\\Axel1\\Desktop\\SmartMouse\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldrtl-xxxhdpi-v17\\abc_ic_menu_cut_mtrl_alpha.png",
+        "source": "C:\\Users\\Axel1\\.android\\build-cache\\0fe2637accbf64e5f3c6f74de1bf388c5dd05e9c\\output\\res\\drawable-ldrtl-xxxhdpi-v17\\abc_ic_menu_cut_mtrl_alpha.png"
     }
 ]

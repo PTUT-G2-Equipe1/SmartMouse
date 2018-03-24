@@ -1,6 +1,10 @@
 [
     {
-        "merged": "/home/nicolas/Bureau/SmartMouse/app/build/intermediates/res/merged/debug/layout-v16/notification_template_custom_big.xml",
-        "source": "/home/nicolas/.android/build-cache/2b52b9c068d2c4a9d7286ed4c7720ac50db744a6/output/res/layout-v16/notification_template_custom_big.xml"
+        "merged": "C:\\home\\nicolas\\Bureau\\SmartMouse\\app\\build\\intermediates\\res\\merged\\debug\\layout-v16\\notification_template_custom_big.xml",
+        "source": "C:\\home\\nicolas\\.android\\build-cache\\2b52b9c068d2c4a9d7286ed4c7720ac50db744a6\\output\\res\\layout-v16\\notification_template_custom_big.xml"
+    },
+    {
+        "merged": "C:\\Users\\Axel1\\Desktop\\SmartMouse\\app\\build\\intermediates\\res\\merged\\debug\\layout-v16\\notification_template_custom_big.xml",
+        "source": "C:\\Users\\Axel1\\.android\\build-cache\\0fe2637accbf64e5f3c6f74de1bf388c5dd05e9c\\output\\res\\layout-v16\\notification_template_custom_big.xml"
     }
 ]

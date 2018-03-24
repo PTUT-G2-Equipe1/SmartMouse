@@ -65,4 +65,20 @@
         android:layout_centerHorizontal="true"
         android:layout_marginTop="53dp" />
 
+    <Chronometer
+        android:id="@+id/chronometer2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/retour"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="50dp" />
+
+    <Button
+        android:id="@+id/demarrerChrono"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/chronometer2"
+        android:layout_centerHorizontal="true"
+        android:text="Démarrer" />
+
 </RelativeLayout>

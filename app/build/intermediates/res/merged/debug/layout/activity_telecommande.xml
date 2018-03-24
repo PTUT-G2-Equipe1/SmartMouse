@@ -65,4 +65,15 @@
         android:layout_centerHorizontal="true"
         android:layout_marginTop="53dp" />
 
+    <Chronometer
+        android:id="@+id/chronometer2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/retour"
+        android:layout_marginEnd="11dp"
+        android:layout_marginRight="11dp"
+        android:layout_marginTop="51dp"
+        android:layout_toLeftOf="@+id/suiv"
+        android:layout_toStartOf="@+id/suiv" />
+
 </RelativeLayout>

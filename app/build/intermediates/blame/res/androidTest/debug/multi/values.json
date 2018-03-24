@@ -1,6 +1,6 @@
 [
     {
-        "outputFile": "/home/nicolas/Bureau/SmartMouse/app/build/intermediates/incremental/mergeDebugAndroidTestResources/merged.dir/values/values.xml",
+        "outputFile": "C:\\home\\nicolas\\Bureau\\SmartMouse\\app\\build\\intermediates\\incremental\\mergeDebugAndroidTestResources\\merged.dir\\values\\values.xml",
         "map": [
             {
                 "to": {
@@ -11,7 +11,31 @@
                     "endOffset": 96
                 },
                 "from": {
-                    "file": "/home/nicolas/.android/build-cache/995d9ed2ed325f7f4ccf34174ae27725951adfc8/output/res/values/values.xml",
+                    "file": "C:\\home\\nicolas\\.android\\build-cache\\995d9ed2ed325f7f4ccf34174ae27725951adfc8\\output\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 229,
+                        "endColumn": 45,
+                        "endOffset": 270
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "outputFile": "C:\\Users\\Axel1\\Desktop\\SmartMouse\\app\\build\\intermediates\\incremental\\mergeDebugAndroidTestResources\\merged.dir\\values\\values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 45,
+                    "endOffset": 96
+                },
+                "from": {
+                    "file": "C:\\Users\\Axel1\\.android\\build-cache\\251474f774a96a4d8e873e6f8272585e44b9ce85\\output\\res\\values\\values.xml",
                     "position": {
                         "startLine": 4,
                         "startColumn": 4,
