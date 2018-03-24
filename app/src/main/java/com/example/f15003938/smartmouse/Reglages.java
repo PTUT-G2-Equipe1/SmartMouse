@@ -65,4 +65,3 @@ public class Reglages extends AppCompatActivity {
         });
     }
 }
-}
