@@ -1,111 +1,111 @@
 -- Merging decision tree log ---
 manifest
-ADDED from C:\Users\Axel1\Desktop\SmartMouse\app\src\main\AndroidManifest.xml:2:1-28:12
+ADDED from C:\Users\anton\Desktop 2\SmartMouse-master\app\src\main\AndroidManifest.xml:2:1-28:12
 	package
-		ADDED from C:\Users\Axel1\Desktop\SmartMouse\app\src\main\AndroidManifest.xml:3:5-47
-		INJECTED from C:\Users\Axel1\Desktop\SmartMouse\app\src\main\AndroidManifest.xml
-		INJECTED from C:\Users\Axel1\Desktop\SmartMouse\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\anton\Desktop 2\SmartMouse-master\app\src\main\AndroidManifest.xml:3:5-47
+		INJECTED from C:\Users\anton\Desktop 2\SmartMouse-master\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\anton\Desktop 2\SmartMouse-master\app\src\main\AndroidManifest.xml
 	android:versionName
-		INJECTED from C:\Users\Axel1\Desktop\SmartMouse\app\src\main\AndroidManifest.xml
-		INJECTED from C:\Users\Axel1\Desktop\SmartMouse\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\anton\Desktop 2\SmartMouse-master\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\anton\Desktop 2\SmartMouse-master\app\src\main\AndroidManifest.xml
 	xmlns:android
-		ADDED from C:\Users\Axel1\Desktop\SmartMouse\app\src\main\AndroidManifest.xml:2:11-69
+		ADDED from C:\Users\anton\Desktop 2\SmartMouse-master\app\src\main\AndroidManifest.xml:2:11-69
 	android:versionCode
-		INJECTED from C:\Users\Axel1\Desktop\SmartMouse\app\src\main\AndroidManifest.xml
-		INJECTED from C:\Users\Axel1\Desktop\SmartMouse\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\anton\Desktop 2\SmartMouse-master\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\anton\Desktop 2\SmartMouse-master\app\src\main\AndroidManifest.xml
 uses-permission#android.permission.BLUETOOTH
-ADDED from C:\Users\Axel1\Desktop\SmartMouse\app\src\main\AndroidManifest.xml:5:5-68
+ADDED from C:\Users\anton\Desktop 2\SmartMouse-master\app\src\main\AndroidManifest.xml:5:5-68
 	android:name
-		ADDED from C:\Users\Axel1\Desktop\SmartMouse\app\src\main\AndroidManifest.xml:5:22-65
+		ADDED from C:\Users\anton\Desktop 2\SmartMouse-master\app\src\main\AndroidManifest.xml:5:22-65
 uses-permission#android.permission.BLUETOOTH_ADMIN
-ADDED from C:\Users\Axel1\Desktop\SmartMouse\app\src\main\AndroidManifest.xml:6:5-74
+ADDED from C:\Users\anton\Desktop 2\SmartMouse-master\app\src\main\AndroidManifest.xml:6:5-74
 	android:name
-		ADDED from C:\Users\Axel1\Desktop\SmartMouse\app\src\main\AndroidManifest.xml:6:22-71
+		ADDED from C:\Users\anton\Desktop 2\SmartMouse-master\app\src\main\AndroidManifest.xml:6:22-71
 application
-ADDED from C:\Users\Axel1\Desktop\SmartMouse\app\src\main\AndroidManifest.xml:8:5-26:19
-MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\Axel1\.android\build-cache\0fe2637accbf64e5f3c6f74de1bf388c5dd05e9c\output\AndroidManifest.xml:29:5-20
-MERGED from [com.android.support:support-v4:25.3.1] C:\Users\Axel1\.android\build-cache\0761c81d9a9d4da0077c71e8298935f09c5faf12\output\AndroidManifest.xml:29:5-20
-MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\Axel1\.android\build-cache\e8e922aba5e96a5618cfabc4fdd32df1f150e09e\output\AndroidManifest.xml:29:5-20
-MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\Axel1\.android\build-cache\e97d59168bee358d01b62cef57a0f949cad46a0f\output\AndroidManifest.xml:29:5-20
-MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\Axel1\.android\build-cache\8b2aa4900cbc7b5085ca56886e893324a6dccf5e\output\AndroidManifest.xml:29:5-20
-MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\Axel1\.android\build-cache\d95f73c3011ade2b60a96a4fab281befa6563bf2\output\AndroidManifest.xml:29:5-20
-MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\Axel1\.android\build-cache\a1689970901cb2a5c030d8f2b6157e83074a1d57\output\AndroidManifest.xml:26:5-20
-MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\Axel1\.android\build-cache\9ec2d82031e0a88ac0614e3544f680d2346447c6\output\AndroidManifest.xml:26:5-20
-MERGED from [com.android.support:support-compat:25.3.1] C:\Users\Axel1\.android\build-cache\182832ccfd4dfb5aad839b21fa80fde15b876dd6\output\AndroidManifest.xml:29:5-20
-MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\Axel1\.android\build-cache\89d96f106239199ad8312e50df2dde3fb729c68c\output\AndroidManifest.xml:9:5-20
+ADDED from C:\Users\anton\Desktop 2\SmartMouse-master\app\src\main\AndroidManifest.xml:8:5-26:19
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\anton\.android\build-cache\7389cc9b3010f7c1530e7c5a9a94c9624d217e69\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\anton\.android\build-cache\07b7475d87653d8fc8733f699768ba9906396d5b\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\anton\.android\build-cache\50cb294544fac0862fb6d91ddf953a5576555706\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\anton\.android\build-cache\b23f26cab4f25a39041870912d837e47f5e067cc\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\anton\.android\build-cache\8f000d9054e5d294cbb8debb18934ed334aa28ab\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\anton\.android\build-cache\346976e61123e58f5c05078725246d714f7942af\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\anton\.android\build-cache\d63fed916678b20e2daa4598856ae865506fc42f\output\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\anton\.android\build-cache\49addbc48c6c8b6e1dbf7c368e42c90f9e254e9e\output\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\anton\.android\build-cache\6c66d244d6de918f60ea7a6d99002c6b22144825\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\anton\.android\build-cache\bee46c5e85e44455ef99cab797bbd4e42ebd98f8\output\AndroidManifest.xml:9:5-20
 	android:label
-		ADDED from C:\Users\Axel1\Desktop\SmartMouse\app\src\main\AndroidManifest.xml:11:9-41
+		ADDED from C:\Users\anton\Desktop 2\SmartMouse-master\app\src\main\AndroidManifest.xml:11:9-41
 	android:supportsRtl
-		ADDED from C:\Users\Axel1\Desktop\SmartMouse\app\src\main\AndroidManifest.xml:13:9-35
+		ADDED from C:\Users\anton\Desktop 2\SmartMouse-master\app\src\main\AndroidManifest.xml:13:9-35
 	android:roundIcon
-		ADDED from C:\Users\Axel1\Desktop\SmartMouse\app\src\main\AndroidManifest.xml:12:9-54
+		ADDED from C:\Users\anton\Desktop 2\SmartMouse-master\app\src\main\AndroidManifest.xml:12:9-54
 	android:allowBackup
-		ADDED from C:\Users\Axel1\Desktop\SmartMouse\app\src\main\AndroidManifest.xml:9:9-35
+		ADDED from C:\Users\anton\Desktop 2\SmartMouse-master\app\src\main\AndroidManifest.xml:9:9-35
 	android:icon
-		ADDED from C:\Users\Axel1\Desktop\SmartMouse\app\src\main\AndroidManifest.xml:10:9-43
+		ADDED from C:\Users\anton\Desktop 2\SmartMouse-master\app\src\main\AndroidManifest.xml:10:9-43
 	android:theme
-		ADDED from C:\Users\Axel1\Desktop\SmartMouse\app\src\main\AndroidManifest.xml:14:9-40
+		ADDED from C:\Users\anton\Desktop 2\SmartMouse-master\app\src\main\AndroidManifest.xml:14:9-40
 activity#com.example.f15003938.smartmouse.Menu
-ADDED from C:\Users\Axel1\Desktop\SmartMouse\app\src\main\AndroidManifest.xml:15:9-21:20
+ADDED from C:\Users\anton\Desktop 2\SmartMouse-master\app\src\main\AndroidManifest.xml:15:9-21:20
 	android:name
-		ADDED from C:\Users\Axel1\Desktop\SmartMouse\app\src\main\AndroidManifest.xml:15:19-39
+		ADDED from C:\Users\anton\Desktop 2\SmartMouse-master\app\src\main\AndroidManifest.xml:15:19-39
 intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
-ADDED from C:\Users\Axel1\Desktop\SmartMouse\app\src\main\AndroidManifest.xml:16:13-20:29
+ADDED from C:\Users\anton\Desktop 2\SmartMouse-master\app\src\main\AndroidManifest.xml:16:13-20:29
 action#android.intent.action.MAIN
-ADDED from C:\Users\Axel1\Desktop\SmartMouse\app\src\main\AndroidManifest.xml:17:17-69
+ADDED from C:\Users\anton\Desktop 2\SmartMouse-master\app\src\main\AndroidManifest.xml:17:17-69
 	android:name
-		ADDED from C:\Users\Axel1\Desktop\SmartMouse\app\src\main\AndroidManifest.xml:17:25-66
+		ADDED from C:\Users\anton\Desktop 2\SmartMouse-master\app\src\main\AndroidManifest.xml:17:25-66
 category#android.intent.category.LAUNCHER
-ADDED from C:\Users\Axel1\Desktop\SmartMouse\app\src\main\AndroidManifest.xml:19:17-77
+ADDED from C:\Users\anton\Desktop 2\SmartMouse-master\app\src\main\AndroidManifest.xml:19:17-77
 	android:name
-		ADDED from C:\Users\Axel1\Desktop\SmartMouse\app\src\main\AndroidManifest.xml:19:27-74
+		ADDED from C:\Users\anton\Desktop 2\SmartMouse-master\app\src\main\AndroidManifest.xml:19:27-74
 activity#com.example.f15003938.smartmouse.ConnexionBT
-ADDED from C:\Users\Axel1\Desktop\SmartMouse\app\src\main\AndroidManifest.xml:22:9-49
+ADDED from C:\Users\anton\Desktop 2\SmartMouse-master\app\src\main\AndroidManifest.xml:22:9-49
 	android:name
-		ADDED from C:\Users\Axel1\Desktop\SmartMouse\app\src\main\AndroidManifest.xml:22:19-46
+		ADDED from C:\Users\anton\Desktop 2\SmartMouse-master\app\src\main\AndroidManifest.xml:22:19-46
 activity#com.example.f15003938.smartmouse.Reglages
-ADDED from C:\Users\Axel1\Desktop\SmartMouse\app\src\main\AndroidManifest.xml:23:9-46
+ADDED from C:\Users\anton\Desktop 2\SmartMouse-master\app\src\main\AndroidManifest.xml:23:9-46
 	android:name
-		ADDED from C:\Users\Axel1\Desktop\SmartMouse\app\src\main\AndroidManifest.xml:23:19-43
+		ADDED from C:\Users\anton\Desktop 2\SmartMouse-master\app\src\main\AndroidManifest.xml:23:19-43
 activity#com.example.f15003938.smartmouse.Souris
-ADDED from C:\Users\Axel1\Desktop\SmartMouse\app\src\main\AndroidManifest.xml:24:9-44
+ADDED from C:\Users\anton\Desktop 2\SmartMouse-master\app\src\main\AndroidManifest.xml:24:9-44
 	android:name
-		ADDED from C:\Users\Axel1\Desktop\SmartMouse\app\src\main\AndroidManifest.xml:24:19-41
+		ADDED from C:\Users\anton\Desktop 2\SmartMouse-master\app\src\main\AndroidManifest.xml:24:19-41
 activity#com.example.f15003938.smartmouse.Telecommande
-ADDED from C:\Users\Axel1\Desktop\SmartMouse\app\src\main\AndroidManifest.xml:25:9-59
+ADDED from C:\Users\anton\Desktop 2\SmartMouse-master\app\src\main\AndroidManifest.xml:25:9-59
 	android:name
-		ADDED from C:\Users\Axel1\Desktop\SmartMouse\app\src\main\AndroidManifest.xml:25:19-47
+		ADDED from C:\Users\anton\Desktop 2\SmartMouse-master\app\src\main\AndroidManifest.xml:25:19-47
 uses-sdk
-INJECTED from C:\Users\Axel1\Desktop\SmartMouse\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
-MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\Axel1\.android\build-cache\0fe2637accbf64e5f3c6f74de1bf388c5dd05e9c\output\AndroidManifest.xml:21:5-23:78
-MERGED from [com.android.support:support-v4:25.3.1] C:\Users\Axel1\.android\build-cache\0761c81d9a9d4da0077c71e8298935f09c5faf12\output\AndroidManifest.xml:21:5-23:54
-MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\Axel1\.android\build-cache\e8e922aba5e96a5618cfabc4fdd32df1f150e09e\output\AndroidManifest.xml:21:5-23:60
-MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\Axel1\.android\build-cache\e97d59168bee358d01b62cef57a0f949cad46a0f\output\AndroidManifest.xml:21:5-23:63
-MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\Axel1\.android\build-cache\8b2aa4900cbc7b5085ca56886e893324a6dccf5e\output\AndroidManifest.xml:21:5-23:58
-MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\Axel1\.android\build-cache\d95f73c3011ade2b60a96a4fab281befa6563bf2\output\AndroidManifest.xml:21:5-23:61
-MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\Axel1\.android\build-cache\a1689970901cb2a5c030d8f2b6157e83074a1d57\output\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\Axel1\.android\build-cache\9ec2d82031e0a88ac0614e3544f680d2346447c6\output\AndroidManifest.xml:20:5-43
-MERGED from [com.android.support:support-compat:25.3.1] C:\Users\Axel1\.android\build-cache\182832ccfd4dfb5aad839b21fa80fde15b876dd6\output\AndroidManifest.xml:21:5-23:58
-MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\Axel1\.android\build-cache\89d96f106239199ad8312e50df2dde3fb729c68c\output\AndroidManifest.xml:5:5-7:41
+INJECTED from C:\Users\anton\Desktop 2\SmartMouse-master\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\anton\.android\build-cache\7389cc9b3010f7c1530e7c5a9a94c9624d217e69\output\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\anton\.android\build-cache\07b7475d87653d8fc8733f699768ba9906396d5b\output\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\anton\.android\build-cache\50cb294544fac0862fb6d91ddf953a5576555706\output\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\anton\.android\build-cache\b23f26cab4f25a39041870912d837e47f5e067cc\output\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\anton\.android\build-cache\8f000d9054e5d294cbb8debb18934ed334aa28ab\output\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\anton\.android\build-cache\346976e61123e58f5c05078725246d714f7942af\output\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\anton\.android\build-cache\d63fed916678b20e2daa4598856ae865506fc42f\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\anton\.android\build-cache\49addbc48c6c8b6e1dbf7c368e42c90f9e254e9e\output\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\anton\.android\build-cache\6c66d244d6de918f60ea7a6d99002c6b22144825\output\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\anton\.android\build-cache\bee46c5e85e44455ef99cab797bbd4e42ebd98f8\output\AndroidManifest.xml:5:5-7:41
 	tools:overrideLibrary
-		ADDED from [com.android.support:appcompat-v7:25.3.1] C:\Users\Axel1\.android\build-cache\0fe2637accbf64e5f3c6f74de1bf388c5dd05e9c\output\AndroidManifest.xml:23:9-75
+		ADDED from [com.android.support:appcompat-v7:25.3.1] C:\Users\anton\.android\build-cache\7389cc9b3010f7c1530e7c5a9a94c9624d217e69\output\AndroidManifest.xml:23:9-75
 	android:targetSdkVersion
-		INJECTED from C:\Users\Axel1\Desktop\SmartMouse\app\src\main\AndroidManifest.xml
-		INJECTED from C:\Users\Axel1\Desktop\SmartMouse\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\anton\Desktop 2\SmartMouse-master\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\anton\Desktop 2\SmartMouse-master\app\src\main\AndroidManifest.xml
 	android:minSdkVersion
-		INJECTED from C:\Users\Axel1\Desktop\SmartMouse\app\src\main\AndroidManifest.xml
-		INJECTED from C:\Users\Axel1\Desktop\SmartMouse\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\anton\Desktop 2\SmartMouse-master\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\anton\Desktop 2\SmartMouse-master\app\src\main\AndroidManifest.xml
 meta-data#android.support.VERSION
-ADDED from [com.android.support:appcompat-v7:25.3.1] C:\Users\Axel1\.android\build-cache\0fe2637accbf64e5f3c6f74de1bf388c5dd05e9c\output\AndroidManifest.xml:25:5-27:34
-MERGED from [com.android.support:support-v4:25.3.1] C:\Users\Axel1\.android\build-cache\0761c81d9a9d4da0077c71e8298935f09c5faf12\output\AndroidManifest.xml:25:5-27:34
-MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\Axel1\.android\build-cache\e8e922aba5e96a5618cfabc4fdd32df1f150e09e\output\AndroidManifest.xml:25:5-27:34
-MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\Axel1\.android\build-cache\e97d59168bee358d01b62cef57a0f949cad46a0f\output\AndroidManifest.xml:25:5-27:34
-MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\Axel1\.android\build-cache\8b2aa4900cbc7b5085ca56886e893324a6dccf5e\output\AndroidManifest.xml:25:5-27:34
-MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\Axel1\.android\build-cache\d95f73c3011ade2b60a96a4fab281befa6563bf2\output\AndroidManifest.xml:25:5-27:34
-MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\Axel1\.android\build-cache\a1689970901cb2a5c030d8f2b6157e83074a1d57\output\AndroidManifest.xml:22:5-24:34
-MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\Axel1\.android\build-cache\9ec2d82031e0a88ac0614e3544f680d2346447c6\output\AndroidManifest.xml:22:5-24:34
-MERGED from [com.android.support:support-compat:25.3.1] C:\Users\Axel1\.android\build-cache\182832ccfd4dfb5aad839b21fa80fde15b876dd6\output\AndroidManifest.xml:25:5-27:34
+ADDED from [com.android.support:appcompat-v7:25.3.1] C:\Users\anton\.android\build-cache\7389cc9b3010f7c1530e7c5a9a94c9624d217e69\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\anton\.android\build-cache\07b7475d87653d8fc8733f699768ba9906396d5b\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\anton\.android\build-cache\50cb294544fac0862fb6d91ddf953a5576555706\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\anton\.android\build-cache\b23f26cab4f25a39041870912d837e47f5e067cc\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\anton\.android\build-cache\8f000d9054e5d294cbb8debb18934ed334aa28ab\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\anton\.android\build-cache\346976e61123e58f5c05078725246d714f7942af\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\anton\.android\build-cache\d63fed916678b20e2daa4598856ae865506fc42f\output\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\anton\.android\build-cache\49addbc48c6c8b6e1dbf7c368e42c90f9e254e9e\output\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\anton\.android\build-cache\6c66d244d6de918f60ea7a6d99002c6b22144825\output\AndroidManifest.xml:25:5-27:34
 	android:value
-		ADDED from [com.android.support:appcompat-v7:25.3.1] C:\Users\Axel1\.android\build-cache\0fe2637accbf64e5f3c6f74de1bf388c5dd05e9c\output\AndroidManifest.xml:27:9-31
+		ADDED from [com.android.support:appcompat-v7:25.3.1] C:\Users\anton\.android\build-cache\7389cc9b3010f7c1530e7c5a9a94c9624d217e69\output\AndroidManifest.xml:27:9-31
 	android:name
-		ADDED from [com.android.support:appcompat-v7:25.3.1] C:\Users\Axel1\.android\build-cache\0fe2637accbf64e5f3c6f74de1bf388c5dd05e9c\output\AndroidManifest.xml:26:9-47
+		ADDED from [com.android.support:appcompat-v7:25.3.1] C:\Users\anton\.android\build-cache\7389cc9b3010f7c1530e7c5a9a94c9624d217e69\output\AndroidManifest.xml:26:9-47

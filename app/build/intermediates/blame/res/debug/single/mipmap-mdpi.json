@@ -4,15 +4,23 @@
         "source": "C:\\Users\\Axel1\\Desktop\\SmartMouse\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_round.png"
     },
     {
-        "merged": "C:\\home\\nicolas\\Bureau\\SmartMouse\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi\\ic_launcher.png",
-        "source": "C:\\home\\nicolas\\Bureau\\SmartMouse\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
+        "merged": "C:\\home\\nicolas\\Bureau\\SmartMouse\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi\\ic_launcher_round.png",
+        "source": "C:\\home\\nicolas\\Bureau\\SmartMouse\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\anton\\Desktop 2\\SmartMouse-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi\\ic_launcher.png",
+        "source": "C:\\Users\\anton\\Desktop 2\\SmartMouse-master\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
     },
     {
         "merged": "C:\\Users\\Axel1\\Desktop\\SmartMouse\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi\\ic_launcher.png",
         "source": "C:\\Users\\Axel1\\Desktop\\SmartMouse\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
     },
     {
-        "merged": "C:\\home\\nicolas\\Bureau\\SmartMouse\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi\\ic_launcher_round.png",
-        "source": "C:\\home\\nicolas\\Bureau\\SmartMouse\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_round.png"
+        "merged": "C:\\Users\\anton\\Desktop 2\\SmartMouse-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi\\ic_launcher_round.png",
+        "source": "C:\\Users\\anton\\Desktop 2\\SmartMouse-master\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\home\\nicolas\\Bureau\\SmartMouse\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi\\ic_launcher.png",
+        "source": "C:\\home\\nicolas\\Bureau\\SmartMouse\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
     }
 ]

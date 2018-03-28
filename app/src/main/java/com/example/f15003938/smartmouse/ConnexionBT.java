@@ -3,6 +3,7 @@ package com.example.f15003938.smartmouse;
 import android.content.BroadcastReceiver;
 import android.content.Context;
 import android.content.Intent;
+import android.graphics.Color;
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
 import android.view.View;
@@ -13,6 +14,7 @@ import android.bluetooth.BluetoothDevice;
 import android.widget.ArrayAdapter;
 import android.widget.ListView;
 
+import android.widget.RelativeLayout;
 import android.widget.Toast;
 import java.util.ArrayList;
 import java.util.HashSet;
@@ -26,19 +28,23 @@ public class ConnexionBT extends AppCompatActivity {
     private Set<BluetoothDevice>pairedDevices;
     ListView listeVue;
     private Set<BluetoothDevice> appareilsProches = new HashSet<>();
+    private RelativeLayout rl;
+
     @Override
     protected void onCreate(Bundle etatInstaceSauv) {
         super.onCreate(etatInstaceSauv);
         setContentView(R.layout.activity_connexionbt);
 
         retour = (Button) findViewById(R.id.retour);
-
+        rl = (RelativeLayout) findViewById(R.id.RL);
         b1 =(Button) findViewById(R.id.button);
         b2=(Button)findViewById(R.id.button2);
         b3=(Button)findViewById(R.id.button3);
 
         BluetoothAdap = BluetoothAdapter.getDefaultAdapter();
         listeVue = (ListView)findViewById(R.id.listView);
+
+        rl.setBackgroundColor(Color.parseColor(Parametres.get_fond()));
 
         /**
          * Ecouteur permettant de changer de menu

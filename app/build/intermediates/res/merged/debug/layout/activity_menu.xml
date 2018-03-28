@@ -2,11 +2,10 @@
 <TableLayout xmlns:app="http://schemas.android.com/apk/res-auto"
     xmlns:tools="http://schemas.android.com/tools"
     xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/RL"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    tools:context="com.example.f15003938.smartmouse.Menu"
-    android:weightSum="1"
-    android:orientation="vertical">
+    tools:context="com.example.f15003938.smartmouse.Reglages">
 
     <TextView
         android:layout_width="153dp"

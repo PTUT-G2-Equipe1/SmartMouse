@@ -4,6 +4,14 @@
         "source": "C:\\home\\nicolas\\Bureau\\SmartMouse\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.png"
     },
     {
+        "merged": "C:\\Users\\anton\\Desktop 2\\SmartMouse-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi\\ic_launcher.png",
+        "source": "C:\\Users\\anton\\Desktop 2\\SmartMouse-master\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\anton\\Desktop 2\\SmartMouse-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi\\ic_launcher_round.png",
+        "source": "C:\\Users\\anton\\Desktop 2\\SmartMouse-master\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_round.png"
+    },
+    {
         "merged": "C:\\home\\nicolas\\Bureau\\SmartMouse\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi\\ic_launcher_round.png",
         "source": "C:\\home\\nicolas\\Bureau\\SmartMouse\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_round.png"
     },

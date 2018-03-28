@@ -1,14 +1,17 @@
 package com.example.f15003938.smartmouse;
 
 import android.content.Intent;
+import android.graphics.Color;
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
 import android.view.View;
 import android.widget.Button;
+import android.widget.RelativeLayout;
 
 public class Telecommande extends AppCompatActivity {
 
-    private Button retour;
+    private Button retour;private RelativeLayout rl;
+
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -16,6 +19,9 @@ public class Telecommande extends AppCompatActivity {
         setContentView(R.layout.activity_telecommande);
 
         retour = (Button) findViewById(R.id.retour);
+        rl = (RelativeLayout) findViewById(R.id.RL);
+
+        rl.setBackgroundColor(Color.parseColor(Parametres.get_fond()));
 
         /**
          * Ecouteur permettant de changer de menu

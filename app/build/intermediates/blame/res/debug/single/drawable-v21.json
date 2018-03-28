@@ -1,27 +1,39 @@
 [
     {
-        "merged": "C:\\home\\nicolas\\Bureau\\SmartMouse\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\notification_action_background.xml",
-        "source": "C:\\home\\nicolas\\.android\\build-cache\\2b52b9c068d2c4a9d7286ed4c7720ac50db744a6\\output\\res\\drawable-v21\\notification_action_background.xml"
-    },
-    {
-        "merged": "C:\\Users\\Axel1\\Desktop\\SmartMouse\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\notification_action_background.xml",
-        "source": "C:\\Users\\Axel1\\.android\\build-cache\\0fe2637accbf64e5f3c6f74de1bf388c5dd05e9c\\output\\res\\drawable-v21\\notification_action_background.xml"
+        "merged": "C:\\home\\nicolas\\Bureau\\SmartMouse\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\abc_action_bar_item_background_material.xml",
+        "source": "C:\\home\\nicolas\\.android\\build-cache\\2b52b9c068d2c4a9d7286ed4c7720ac50db744a6\\output\\res\\drawable-v21\\abc_action_bar_item_background_material.xml"
     },
     {
         "merged": "C:\\home\\nicolas\\Bureau\\SmartMouse\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\abc_edit_text_material.xml",
         "source": "C:\\home\\nicolas\\.android\\build-cache\\2b52b9c068d2c4a9d7286ed4c7720ac50db744a6\\output\\res\\drawable-v21\\abc_edit_text_material.xml"
     },
     {
-        "merged": "C:\\home\\nicolas\\Bureau\\SmartMouse\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\abc_action_bar_item_background_material.xml",
-        "source": "C:\\home\\nicolas\\.android\\build-cache\\2b52b9c068d2c4a9d7286ed4c7720ac50db744a6\\output\\res\\drawable-v21\\abc_action_bar_item_background_material.xml"
+        "merged": "C:\\Users\\Axel1\\Desktop\\SmartMouse\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\notification_action_background.xml",
+        "source": "C:\\Users\\Axel1\\.android\\build-cache\\0fe2637accbf64e5f3c6f74de1bf388c5dd05e9c\\output\\res\\drawable-v21\\notification_action_background.xml"
+    },
+    {
+        "merged": "C:\\home\\nicolas\\Bureau\\SmartMouse\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\notification_action_background.xml",
+        "source": "C:\\home\\nicolas\\.android\\build-cache\\2b52b9c068d2c4a9d7286ed4c7720ac50db744a6\\output\\res\\drawable-v21\\notification_action_background.xml"
     },
     {
         "merged": "C:\\Users\\Axel1\\Desktop\\SmartMouse\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\abc_btn_colored_material.xml",
         "source": "C:\\Users\\Axel1\\.android\\build-cache\\0fe2637accbf64e5f3c6f74de1bf388c5dd05e9c\\output\\res\\drawable-v21\\abc_btn_colored_material.xml"
     },
     {
+        "merged": "C:\\Users\\anton\\Desktop 2\\SmartMouse-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\notification_action_background.xml",
+        "source": "C:\\Users\\anton\\.android\\build-cache\\7389cc9b3010f7c1530e7c5a9a94c9624d217e69\\output\\res\\drawable-v21\\notification_action_background.xml"
+    },
+    {
         "merged": "C:\\home\\nicolas\\Bureau\\SmartMouse\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\abc_btn_colored_material.xml",
         "source": "C:\\home\\nicolas\\.android\\build-cache\\2b52b9c068d2c4a9d7286ed4c7720ac50db744a6\\output\\res\\drawable-v21\\abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\anton\\Desktop 2\\SmartMouse-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\abc_btn_colored_material.xml",
+        "source": "C:\\Users\\anton\\.android\\build-cache\\7389cc9b3010f7c1530e7c5a9a94c9624d217e69\\output\\res\\drawable-v21\\abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\anton\\Desktop 2\\SmartMouse-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\abc_edit_text_material.xml",
+        "source": "C:\\Users\\anton\\.android\\build-cache\\7389cc9b3010f7c1530e7c5a9a94c9624d217e69\\output\\res\\drawable-v21\\abc_edit_text_material.xml"
     },
     {
         "merged": "C:\\Users\\Axel1\\Desktop\\SmartMouse\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\abc_action_bar_item_background_material.xml",
@@ -30,5 +42,9 @@
     {
         "merged": "C:\\Users\\Axel1\\Desktop\\SmartMouse\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\abc_edit_text_material.xml",
         "source": "C:\\Users\\Axel1\\.android\\build-cache\\0fe2637accbf64e5f3c6f74de1bf388c5dd05e9c\\output\\res\\drawable-v21\\abc_edit_text_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\anton\\Desktop 2\\SmartMouse-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\abc_action_bar_item_background_material.xml",
+        "source": "C:\\Users\\anton\\.android\\build-cache\\7389cc9b3010f7c1530e7c5a9a94c9624d217e69\\output\\res\\drawable-v21\\abc_action_bar_item_background_material.xml"
     }
 ]

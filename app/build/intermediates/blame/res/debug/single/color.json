@@ -4,10 +4,6 @@
         "source": "C:\\home\\nicolas\\.android\\build-cache\\2b52b9c068d2c4a9d7286ed4c7720ac50db744a6\\output\\res\\color\\abc_tint_spinner.xml"
     },
     {
-        "merged": "C:\\Users\\Axel1\\Desktop\\SmartMouse\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_tint_default.xml",
-        "source": "C:\\Users\\Axel1\\.android\\build-cache\\0fe2637accbf64e5f3c6f74de1bf388c5dd05e9c\\output\\res\\color\\abc_tint_default.xml"
-    },
-    {
         "merged": "C:\\home\\nicolas\\Bureau\\SmartMouse\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_primary_text_material_light.xml",
         "source": "C:\\home\\nicolas\\.android\\build-cache\\2b52b9c068d2c4a9d7286ed4c7720ac50db744a6\\output\\res\\color\\abc_primary_text_material_light.xml"
     },
@@ -16,20 +12,16 @@
         "source": "C:\\home\\nicolas\\.android\\build-cache\\2b52b9c068d2c4a9d7286ed4c7720ac50db744a6\\output\\res\\color\\abc_btn_colored_borderless_text_material.xml"
     },
     {
-        "merged": "C:\\Users\\Axel1\\Desktop\\SmartMouse\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_secondary_text_material_dark.xml",
-        "source": "C:\\Users\\Axel1\\.android\\build-cache\\0fe2637accbf64e5f3c6f74de1bf388c5dd05e9c\\output\\res\\color\\abc_secondary_text_material_dark.xml"
+        "merged": "C:\\Users\\anton\\Desktop 2\\SmartMouse-master\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_tint_edittext.xml",
+        "source": "C:\\Users\\anton\\.android\\build-cache\\7389cc9b3010f7c1530e7c5a9a94c9624d217e69\\output\\res\\color\\abc_tint_edittext.xml"
     },
     {
-        "merged": "C:\\Users\\Axel1\\Desktop\\SmartMouse\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_tint_switch_track.xml",
-        "source": "C:\\Users\\Axel1\\.android\\build-cache\\0fe2637accbf64e5f3c6f74de1bf388c5dd05e9c\\output\\res\\color\\abc_tint_switch_track.xml"
+        "merged": "C:\\Users\\anton\\Desktop 2\\SmartMouse-master\\app\\build\\intermediates\\res\\merged\\debug\\color\\switch_thumb_material_light.xml",
+        "source": "C:\\Users\\anton\\.android\\build-cache\\7389cc9b3010f7c1530e7c5a9a94c9624d217e69\\output\\res\\color\\switch_thumb_material_light.xml"
     },
     {
-        "merged": "C:\\Users\\Axel1\\Desktop\\SmartMouse\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_primary_text_material_dark.xml",
-        "source": "C:\\Users\\Axel1\\.android\\build-cache\\0fe2637accbf64e5f3c6f74de1bf388c5dd05e9c\\output\\res\\color\\abc_primary_text_material_dark.xml"
-    },
-    {
-        "merged": "C:\\home\\nicolas\\Bureau\\SmartMouse\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_hint_foreground_material_dark.xml",
-        "source": "C:\\home\\nicolas\\.android\\build-cache\\2b52b9c068d2c4a9d7286ed4c7720ac50db744a6\\output\\res\\color\\abc_hint_foreground_material_dark.xml"
+        "merged": "C:\\Users\\anton\\Desktop 2\\SmartMouse-master\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_btn_colored_text_material.xml",
+        "source": "C:\\Users\\anton\\.android\\build-cache\\7389cc9b3010f7c1530e7c5a9a94c9624d217e69\\output\\res\\color\\abc_btn_colored_text_material.xml"
     },
     {
         "merged": "C:\\Users\\Axel1\\Desktop\\SmartMouse\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_primary_text_material_light.xml",
@@ -48,12 +40,92 @@
         "source": "C:\\home\\nicolas\\.android\\build-cache\\2b52b9c068d2c4a9d7286ed4c7720ac50db744a6\\output\\res\\color\\abc_tint_default.xml"
     },
     {
-        "merged": "C:\\Users\\Axel1\\Desktop\\SmartMouse\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_btn_colored_borderless_text_material.xml",
-        "source": "C:\\Users\\Axel1\\.android\\build-cache\\0fe2637accbf64e5f3c6f74de1bf388c5dd05e9c\\output\\res\\color\\abc_btn_colored_borderless_text_material.xml"
-    },
-    {
         "merged": "C:\\Users\\Axel1\\Desktop\\SmartMouse\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_tint_switch_thumb.xml",
         "source": "C:\\Users\\Axel1\\.android\\build-cache\\0fe2637accbf64e5f3c6f74de1bf388c5dd05e9c\\output\\res\\color\\abc_tint_switch_thumb.xml"
+    },
+    {
+        "merged": "C:\\Users\\anton\\Desktop 2\\SmartMouse-master\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_tint_switch_track.xml",
+        "source": "C:\\Users\\anton\\.android\\build-cache\\7389cc9b3010f7c1530e7c5a9a94c9624d217e69\\output\\res\\color\\abc_tint_switch_track.xml"
+    },
+    {
+        "merged": "C:\\Users\\anton\\Desktop 2\\SmartMouse-master\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_tint_default.xml",
+        "source": "C:\\Users\\anton\\.android\\build-cache\\7389cc9b3010f7c1530e7c5a9a94c9624d217e69\\output\\res\\color\\abc_tint_default.xml"
+    },
+    {
+        "merged": "C:\\Users\\anton\\Desktop 2\\SmartMouse-master\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_secondary_text_material_dark.xml",
+        "source": "C:\\Users\\anton\\.android\\build-cache\\7389cc9b3010f7c1530e7c5a9a94c9624d217e69\\output\\res\\color\\abc_secondary_text_material_dark.xml"
+    },
+    {
+        "merged": "C:\\home\\nicolas\\Bureau\\SmartMouse\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_btn_colored_text_material.xml",
+        "source": "C:\\home\\nicolas\\.android\\build-cache\\2b52b9c068d2c4a9d7286ed4c7720ac50db744a6\\output\\res\\color\\abc_btn_colored_text_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\anton\\Desktop 2\\SmartMouse-master\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_tint_btn_checkable.xml",
+        "source": "C:\\Users\\anton\\.android\\build-cache\\7389cc9b3010f7c1530e7c5a9a94c9624d217e69\\output\\res\\color\\abc_tint_btn_checkable.xml"
+    },
+    {
+        "merged": "C:\\home\\nicolas\\Bureau\\SmartMouse\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_tint_switch_track.xml",
+        "source": "C:\\home\\nicolas\\.android\\build-cache\\2b52b9c068d2c4a9d7286ed4c7720ac50db744a6\\output\\res\\color\\abc_tint_switch_track.xml"
+    },
+    {
+        "merged": "C:\\Users\\Axel1\\Desktop\\SmartMouse\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_tint_edittext.xml",
+        "source": "C:\\Users\\Axel1\\.android\\build-cache\\0fe2637accbf64e5f3c6f74de1bf388c5dd05e9c\\output\\res\\color\\abc_tint_edittext.xml"
+    },
+    {
+        "merged": "C:\\Users\\anton\\Desktop 2\\SmartMouse-master\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_primary_text_disable_only_material_dark.xml",
+        "source": "C:\\Users\\anton\\.android\\build-cache\\7389cc9b3010f7c1530e7c5a9a94c9624d217e69\\output\\res\\color\\abc_primary_text_disable_only_material_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\anton\\Desktop 2\\SmartMouse-master\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_tint_spinner.xml",
+        "source": "C:\\Users\\anton\\.android\\build-cache\\7389cc9b3010f7c1530e7c5a9a94c9624d217e69\\output\\res\\color\\abc_tint_spinner.xml"
+    },
+    {
+        "merged": "C:\\Users\\anton\\Desktop 2\\SmartMouse-master\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_primary_text_disable_only_material_light.xml",
+        "source": "C:\\Users\\anton\\.android\\build-cache\\7389cc9b3010f7c1530e7c5a9a94c9624d217e69\\output\\res\\color\\abc_primary_text_disable_only_material_light.xml"
+    },
+    {
+        "merged": "C:\\home\\nicolas\\Bureau\\SmartMouse\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_tint_edittext.xml",
+        "source": "C:\\home\\nicolas\\.android\\build-cache\\2b52b9c068d2c4a9d7286ed4c7720ac50db744a6\\output\\res\\color\\abc_tint_edittext.xml"
+    },
+    {
+        "merged": "C:\\home\\nicolas\\Bureau\\SmartMouse\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_primary_text_material_dark.xml",
+        "source": "C:\\home\\nicolas\\.android\\build-cache\\2b52b9c068d2c4a9d7286ed4c7720ac50db744a6\\output\\res\\color\\abc_primary_text_material_dark.xml"
+    },
+    {
+        "merged": "C:\\home\\nicolas\\Bureau\\SmartMouse\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_tint_btn_checkable.xml",
+        "source": "C:\\home\\nicolas\\.android\\build-cache\\2b52b9c068d2c4a9d7286ed4c7720ac50db744a6\\output\\res\\color\\abc_tint_btn_checkable.xml"
+    },
+    {
+        "merged": "C:\\Users\\Axel1\\Desktop\\SmartMouse\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_tint_default.xml",
+        "source": "C:\\Users\\Axel1\\.android\\build-cache\\0fe2637accbf64e5f3c6f74de1bf388c5dd05e9c\\output\\res\\color\\abc_tint_default.xml"
+    },
+    {
+        "merged": "C:\\Users\\anton\\Desktop 2\\SmartMouse-master\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_secondary_text_material_light.xml",
+        "source": "C:\\Users\\anton\\.android\\build-cache\\7389cc9b3010f7c1530e7c5a9a94c9624d217e69\\output\\res\\color\\abc_secondary_text_material_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\anton\\Desktop 2\\SmartMouse-master\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_primary_text_material_dark.xml",
+        "source": "C:\\Users\\anton\\.android\\build-cache\\7389cc9b3010f7c1530e7c5a9a94c9624d217e69\\output\\res\\color\\abc_primary_text_material_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\Axel1\\Desktop\\SmartMouse\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_secondary_text_material_dark.xml",
+        "source": "C:\\Users\\Axel1\\.android\\build-cache\\0fe2637accbf64e5f3c6f74de1bf388c5dd05e9c\\output\\res\\color\\abc_secondary_text_material_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\Axel1\\Desktop\\SmartMouse\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_tint_switch_track.xml",
+        "source": "C:\\Users\\Axel1\\.android\\build-cache\\0fe2637accbf64e5f3c6f74de1bf388c5dd05e9c\\output\\res\\color\\abc_tint_switch_track.xml"
+    },
+    {
+        "merged": "C:\\Users\\Axel1\\Desktop\\SmartMouse\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_primary_text_material_dark.xml",
+        "source": "C:\\Users\\Axel1\\.android\\build-cache\\0fe2637accbf64e5f3c6f74de1bf388c5dd05e9c\\output\\res\\color\\abc_primary_text_material_dark.xml"
+    },
+    {
+        "merged": "C:\\home\\nicolas\\Bureau\\SmartMouse\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_hint_foreground_material_dark.xml",
+        "source": "C:\\home\\nicolas\\.android\\build-cache\\2b52b9c068d2c4a9d7286ed4c7720ac50db744a6\\output\\res\\color\\abc_hint_foreground_material_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\Axel1\\Desktop\\SmartMouse\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_btn_colored_borderless_text_material.xml",
+        "source": "C:\\Users\\Axel1\\.android\\build-cache\\0fe2637accbf64e5f3c6f74de1bf388c5dd05e9c\\output\\res\\color\\abc_btn_colored_borderless_text_material.xml"
     },
     {
         "merged": "C:\\Users\\Axel1\\Desktop\\SmartMouse\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_secondary_text_material_light.xml",
@@ -88,6 +160,10 @@
         "source": "C:\\home\\nicolas\\.android\\build-cache\\2b52b9c068d2c4a9d7286ed4c7720ac50db744a6\\output\\res\\color\\abc_tint_seek_thumb.xml"
     },
     {
+        "merged": "C:\\Users\\anton\\Desktop 2\\SmartMouse-master\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_primary_text_material_light.xml",
+        "source": "C:\\Users\\anton\\.android\\build-cache\\7389cc9b3010f7c1530e7c5a9a94c9624d217e69\\output\\res\\color\\abc_primary_text_material_light.xml"
+    },
+    {
         "merged": "C:\\home\\nicolas\\Bureau\\SmartMouse\\app\\build\\intermediates\\res\\merged\\debug\\color\\switch_thumb_material_light.xml",
         "source": "C:\\home\\nicolas\\.android\\build-cache\\2b52b9c068d2c4a9d7286ed4c7720ac50db744a6\\output\\res\\color\\switch_thumb_material_light.xml"
     },
@@ -104,8 +180,12 @@
         "source": "C:\\Users\\Axel1\\.android\\build-cache\\0fe2637accbf64e5f3c6f74de1bf388c5dd05e9c\\output\\res\\color\\abc_tint_btn_checkable.xml"
     },
     {
-        "merged": "C:\\home\\nicolas\\Bureau\\SmartMouse\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_btn_colored_text_material.xml",
-        "source": "C:\\home\\nicolas\\.android\\build-cache\\2b52b9c068d2c4a9d7286ed4c7720ac50db744a6\\output\\res\\color\\abc_btn_colored_text_material.xml"
+        "merged": "C:\\Users\\anton\\Desktop 2\\SmartMouse-master\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_tint_switch_thumb.xml",
+        "source": "C:\\Users\\anton\\.android\\build-cache\\7389cc9b3010f7c1530e7c5a9a94c9624d217e69\\output\\res\\color\\abc_tint_switch_thumb.xml"
+    },
+    {
+        "merged": "C:\\Users\\anton\\Desktop 2\\SmartMouse-master\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_hint_foreground_material_dark.xml",
+        "source": "C:\\Users\\anton\\.android\\build-cache\\7389cc9b3010f7c1530e7c5a9a94c9624d217e69\\output\\res\\color\\abc_hint_foreground_material_dark.xml"
     },
     {
         "merged": "C:\\home\\nicolas\\Bureau\\SmartMouse\\app\\build\\intermediates\\res\\merged\\debug\\color\\switch_thumb_material_dark.xml",
@@ -116,10 +196,6 @@
         "source": "C:\\home\\nicolas\\.android\\build-cache\\2b52b9c068d2c4a9d7286ed4c7720ac50db744a6\\output\\res\\color\\abc_tint_switch_thumb.xml"
     },
     {
-        "merged": "C:\\home\\nicolas\\Bureau\\SmartMouse\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_tint_switch_track.xml",
-        "source": "C:\\home\\nicolas\\.android\\build-cache\\2b52b9c068d2c4a9d7286ed4c7720ac50db744a6\\output\\res\\color\\abc_tint_switch_track.xml"
-    },
-    {
         "merged": "C:\\Users\\Axel1\\Desktop\\SmartMouse\\app\\build\\intermediates\\res\\merged\\debug\\color\\switch_thumb_material_light.xml",
         "source": "C:\\Users\\Axel1\\.android\\build-cache\\0fe2637accbf64e5f3c6f74de1bf388c5dd05e9c\\output\\res\\color\\switch_thumb_material_light.xml"
     },
@@ -128,8 +204,8 @@
         "source": "C:\\Users\\Axel1\\.android\\build-cache\\0fe2637accbf64e5f3c6f74de1bf388c5dd05e9c\\output\\res\\color\\abc_primary_text_disable_only_material_dark.xml"
     },
     {
-        "merged": "C:\\Users\\Axel1\\Desktop\\SmartMouse\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_tint_edittext.xml",
-        "source": "C:\\Users\\Axel1\\.android\\build-cache\\0fe2637accbf64e5f3c6f74de1bf388c5dd05e9c\\output\\res\\color\\abc_tint_edittext.xml"
+        "merged": "C:\\Users\\anton\\Desktop 2\\SmartMouse-master\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_hint_foreground_material_light.xml",
+        "source": "C:\\Users\\anton\\.android\\build-cache\\7389cc9b3010f7c1530e7c5a9a94c9624d217e69\\output\\res\\color\\abc_hint_foreground_material_light.xml"
     },
     {
         "merged": "C:\\Users\\Axel1\\Desktop\\SmartMouse\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_btn_colored_text_material.xml",
@@ -140,20 +216,24 @@
         "source": "C:\\Users\\Axel1\\.android\\build-cache\\0fe2637accbf64e5f3c6f74de1bf388c5dd05e9c\\output\\res\\color\\abc_hint_foreground_material_dark.xml"
     },
     {
-        "merged": "C:\\home\\nicolas\\Bureau\\SmartMouse\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_tint_edittext.xml",
-        "source": "C:\\home\\nicolas\\.android\\build-cache\\2b52b9c068d2c4a9d7286ed4c7720ac50db744a6\\output\\res\\color\\abc_tint_edittext.xml"
+        "merged": "C:\\Users\\anton\\Desktop 2\\SmartMouse-master\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_search_url_text.xml",
+        "source": "C:\\Users\\anton\\.android\\build-cache\\7389cc9b3010f7c1530e7c5a9a94c9624d217e69\\output\\res\\color\\abc_search_url_text.xml"
     },
     {
-        "merged": "C:\\home\\nicolas\\Bureau\\SmartMouse\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_primary_text_material_dark.xml",
-        "source": "C:\\home\\nicolas\\.android\\build-cache\\2b52b9c068d2c4a9d7286ed4c7720ac50db744a6\\output\\res\\color\\abc_primary_text_material_dark.xml"
+        "merged": "C:\\Users\\anton\\Desktop 2\\SmartMouse-master\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_tint_seek_thumb.xml",
+        "source": "C:\\Users\\anton\\.android\\build-cache\\7389cc9b3010f7c1530e7c5a9a94c9624d217e69\\output\\res\\color\\abc_tint_seek_thumb.xml"
+    },
+    {
+        "merged": "C:\\Users\\anton\\Desktop 2\\SmartMouse-master\\app\\build\\intermediates\\res\\merged\\debug\\color\\switch_thumb_material_dark.xml",
+        "source": "C:\\Users\\anton\\.android\\build-cache\\7389cc9b3010f7c1530e7c5a9a94c9624d217e69\\output\\res\\color\\switch_thumb_material_dark.xml"
     },
     {
         "merged": "C:\\home\\nicolas\\Bureau\\SmartMouse\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_primary_text_disable_only_material_dark.xml",
         "source": "C:\\home\\nicolas\\.android\\build-cache\\2b52b9c068d2c4a9d7286ed4c7720ac50db744a6\\output\\res\\color\\abc_primary_text_disable_only_material_dark.xml"
     },
     {
-        "merged": "C:\\home\\nicolas\\Bureau\\SmartMouse\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_tint_btn_checkable.xml",
-        "source": "C:\\home\\nicolas\\.android\\build-cache\\2b52b9c068d2c4a9d7286ed4c7720ac50db744a6\\output\\res\\color\\abc_tint_btn_checkable.xml"
+        "merged": "C:\\Users\\anton\\Desktop 2\\SmartMouse-master\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_btn_colored_borderless_text_material.xml",
+        "source": "C:\\Users\\anton\\.android\\build-cache\\7389cc9b3010f7c1530e7c5a9a94c9624d217e69\\output\\res\\color\\abc_btn_colored_borderless_text_material.xml"
     },
     {
         "merged": "C:\\Users\\Axel1\\Desktop\\SmartMouse\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_tint_spinner.xml",
