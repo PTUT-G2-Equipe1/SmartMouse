@@ -15,10 +15,7 @@ import com.example.f15003938.smartmouse.R;
 
 public class Menu extends AppCompatActivity {
 
-    private Button souris;
-    private Button tele;
-    private Button reglages;
-    private Button connexion;
+    private Button souris, tele, reglages, connexion;
     private TableLayout rl;
 
     @SuppressLint("WrongViewCast")
@@ -26,13 +23,29 @@ public class Menu extends AppCompatActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_menu);
+
+        /**
+         * Initialisation des élements de la vue
+         */
         souris = (Button) findViewById(R.id.souris);
         tele = (Button) findViewById(R.id.tele);
         reglages = (Button) findViewById(R.id.reglage);
         connexion = (Button) findViewById(R.id.connexion);
         rl = (TableLayout) findViewById(R.id.RL);
 
+        /**
+         * Initialisation du style de vue
+         */
         rl.setBackgroundColor(Color.parseColor(Parametres.get_fond()));
+        souris.setTextSize(Parametres.get_font_size());
+        souris.setTypeface(Parametres.get_font());
+        tele.setTextSize(Parametres.get_font_size());
+        tele.setTypeface(Parametres.get_font());
+        reglages.setTextSize(Parametres.get_font_size());
+        reglages.setTypeface(Parametres.get_font());
+        connexion.setTextSize(Parametres.get_font_size());
+        connexion.setTypeface(Parametres.get_font());
+
         /**
          * Ecouteur permettant de changer de menu
          */

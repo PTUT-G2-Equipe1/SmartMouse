@@ -10,21 +10,32 @@ import android.widget.RelativeLayout;
 
 public class Souris extends AppCompatActivity {
 
-    private Button retour;
-    private Button droit;
-    private Button gauche;
+    private Button retour, droit, gauche;
     private RelativeLayout rl;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_souris);
+
+        /**
+         * Initialisation des élements de la vue
+         */
         rl = (RelativeLayout) findViewById(R.id.RL);
         retour = (Button) findViewById(R.id.retour);
         droit = (Button) findViewById(R.id.droit);
         gauche = (Button) findViewById(R.id.gauche);
 
+        /**
+         * Initialisation du style de vue
+         */
         rl.setBackgroundColor(Color.parseColor(Parametres.get_fond()));
+        retour.setTextSize(Parametres.get_font_size());
+        retour.setTypeface(Parametres.get_font());
+        droit.setTextSize(Parametres.get_font_size());
+        droit.setTypeface(Parametres.get_font());
+        gauche.setTextSize(Parametres.get_font_size());
+        gauche.setTypeface(Parametres.get_font());
 
         /**
          * Ecouteur permettant de changer de menu

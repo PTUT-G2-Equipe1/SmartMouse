@@ -23,7 +23,7 @@ import java.util.Set;
 public class ConnexionBT extends AppCompatActivity {
 
     private Button retour;
-    Button b1,b2,b3;
+    Button b1,b2,b3, scan;
     private BluetoothAdapter BluetoothAdap;
     private Set<BluetoothDevice>pairedDevices;
     ListView listeVue;
@@ -35,16 +35,32 @@ public class ConnexionBT extends AppCompatActivity {
         super.onCreate(etatInstaceSauv);
         setContentView(R.layout.activity_connexionbt);
 
+        /**
+         * Initialisation des élements de la vue
+         */
         retour = (Button) findViewById(R.id.retour);
         rl = (RelativeLayout) findViewById(R.id.RL);
         b1 =(Button) findViewById(R.id.button);
         b2=(Button)findViewById(R.id.button2);
         b3=(Button)findViewById(R.id.button3);
-
+        scan=(Button) findViewById(R.id.scanner);
         BluetoothAdap = BluetoothAdapter.getDefaultAdapter();
         listeVue = (ListView)findViewById(R.id.listView);
 
+        /**
+         * Initialisation du style de vue
+         */
         rl.setBackgroundColor(Color.parseColor(Parametres.get_fond()));
+        retour.setTextSize(Parametres.get_font_size());
+        retour.setTypeface(Parametres.get_font());
+        b1.setTextSize(Parametres.get_font_size());
+        b1.setTypeface(Parametres.get_font());
+        b2.setTextSize(Parametres.get_font_size());
+        b2.setTypeface(Parametres.get_font());
+        b3.setTextSize(Parametres.get_font_size());
+        b3.setTypeface(Parametres.get_font());
+        scan.setTextSize(Parametres.get_font_size());
+        scan.setTypeface(Parametres.get_font());
 
         /**
          * Ecouteur permettant de changer de menu

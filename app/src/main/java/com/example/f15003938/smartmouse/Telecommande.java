@@ -10,18 +10,40 @@ import android.widget.RelativeLayout;
 
 public class Telecommande extends AppCompatActivity {
 
-    private Button retour;private RelativeLayout rl;
-
+    private Button retour, precedent, suivant, quitter, demarrer;
+    private RelativeLayout rl;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_telecommande);
 
-        retour = (Button) findViewById(R.id.retour);
+        /**
+         * Initialisation des élements de la vue
+         */
         rl = (RelativeLayout) findViewById(R.id.RL);
+        retour = (Button) findViewById(R.id.retour);
+        precedent = (Button) findViewById(R.id.prec);
+        suivant = (Button) findViewById(R.id.suiv);
+        quitter = (Button) findViewById(R.id.quitter);
+        demarrer = (Button) findViewById(R.id.demarrerChrono);
 
+        /**
+         * Initialisation du style de vue
+         */
         rl.setBackgroundColor(Color.parseColor(Parametres.get_fond()));
+        retour.setTextSize(Parametres.get_font_size());
+        retour.setTypeface(Parametres.get_font());
+        precedent.setTextSize(Parametres.get_font_size());
+        precedent.setTypeface(Parametres.get_font());
+        suivant.setTextSize(Parametres.get_font_size());
+        suivant.setTypeface(Parametres.get_font());
+        quitter.setTextSize(Parametres.get_font_size());
+        quitter.setTypeface(Parametres.get_font());
+        demarrer.setTextSize(Parametres.get_font_size());
+        demarrer.setTypeface(Parametres.get_font());
+
+
 
         /**
          * Ecouteur permettant de changer de menu
